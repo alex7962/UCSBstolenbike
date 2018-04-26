@@ -4,8 +4,8 @@
 ## Table of Contents
 * [Abstract](#Abstract)
 * [Contributors](#Contributors)
-* Packages
-* Steps
-* Methodology
-* Citation
+* [Packages](#Packages)
+* [Steps](#Steps)
+* [Methodology](#Methodology)
+* [Citation](#Citation)
 
