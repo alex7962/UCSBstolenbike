@@ -1,7 +1,7 @@
 # UCSBstolenbike
 ### Data Cleaning &amp; Data Visualization using R (Heat Map using plotly)
 
-## Table of Contents
+# Table of Contents
 * [Abstract](#Abstract)
 * [Contributors](#Contributors)
 * [Packages](#Packages)
@@ -9,3 +9,4 @@
 * [Methodology](#Methodology)
 * [Citation](#Citation)
 
+# <a name="Abstract"></a>Abstract
