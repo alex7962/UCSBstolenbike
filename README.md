@@ -2,4 +2,10 @@
 ### Data Cleaning &amp; Data Visualization using R (Heat Map using plotly)
 
 ## Table of Contents
-* header
+* [Abstract](#Abstract)
+* [Contributors](#Contributors)
+* Packages
+* Steps
+* Methodology
+* Citation
+
