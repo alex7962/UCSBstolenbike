@@ -17,4 +17,5 @@
 * [Junki Kwon](#Abstract)
 * [Alexander Yoon](#Contributors)
 
-##P
+## Dataset
+  The dataset is provided by the UCSB Police Department. The dataset is a csv file that includes all bike theft reports on campus from the year 2010 to 2017. Each report includes the date, day of the incident, bike brand, location, time of day, registered, lock, and the property value. Dataset is 1298 observations.
