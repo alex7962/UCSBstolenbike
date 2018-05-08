@@ -4,7 +4,7 @@
 # Table of Contents
 * [Abstract](#Abstract)
 * [Contributors](#Contributors)
-* [About the Dataset](#About the Dataset)
+* [Dataset](#Dataset)
 * [Packages](#Packages)
 * [Steps](#Steps)
 * [Methodology](#Methodology)
