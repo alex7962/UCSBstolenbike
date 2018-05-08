@@ -10,3 +10,4 @@
 * [Citation](#Citation)
 
 ## Abstract
+  UC Santa Barbara is considered one of the biggest biker friendly campuses in the state of California. Unfortunately every year, more than 400 bikes get reported stolen. 
