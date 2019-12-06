@@ -1,0 +1,1299 @@
+year,monthreported,category,dayofweek,timeofday,location,bikebrand,lock,registered,propertyvalue
+10,March,theft bicycle,Friday,Unknown,SANTA CATALINA,Raleigh,Not listed,Yes,50
+10,December,theft bicycle,Friday,Unknown,ANACAPA,Bianchi,U-Lock,Yes,50
+10,January,theft bicycle,Friday,Unknown,"MIRANDA, LAS ENCINAS",Electra,Cable Lock,Yes,65
+10,October,theft bicycle,Friday,0800-1600,DAVIDSON LIBRARY,Huffy,Cable Lock,Yes,90
+10,October,theft bicycle,Friday,0800-1600,STUDENT RESOURCES BLDG.,Diamondback,Not Locked,No,100
+10,January,theft bicycle,Friday,1600-2400,ANACAPA HALL,Huffy,U-Lock,Yes,100
+10,January,theft bicycle,Friday,0800-1600,BROIDA HALL,Unknown,U-Lock,Yes,100
+10,May,theft bicycle,Friday,2400-0800,ANACAPA,Pacific,Cable Lock,No,115
+10,October,theft bicycle,Friday,2400-0800,SANTA CATALINA,Urban,U-Lock,Yes,140
+10,January,theft bicycle,Friday,0800-1600,DAVIDSON LIBRARY,Pantera,Not Locked,Yes,160
+10,October,theft bicycle,Friday,0800-1600,ANACAPA,Magna,Cable Lock,Yes,175
+10,October,theft bicycle,Friday,1600-2400,HARDER STADIUM,Pantera,U-Lock,Yes,175
+10,December,theft bicycle,Friday,2400-0800,SANTA CATALINA,Cannondale,U-Lock,No,320
+10,April,theft bicycle,Friday,0800-1600,HSSB,Fuji,Cable Lock,No,330
+10,April,theft bicycle,Friday,Unknown,UCEN,Unknown,Cable Lock,No,340
+10,May,theft bicycle,Friday,Unknown,SANTA CATALINA,Alpha,U-Lock,Yes,530
+10,March,theft bicycle,Friday,0800-1600,PHELPS HALL,Specialized,Not Locked,No,3000
+10,September,theft bicycle,Monday,0800-1600,NOBLE HALL,Urban,U-Lock,Yes,65
+10,September,theft bicycle,Monday,0800-1600,"ARGUELLO, LAS ENCINAS QUAD",Huffy,Cable Lock,Yes,70
+10,October,theft bicycle,Monday,2400-0800,SANTA CATALINA,Trek,Cable Lock,Yes,70
+10,March,theft bicycle,Monday,1600-2400,LIBRARY,Unknown,Not Locked,Yes,75
+10,May,theft bicycle,Monday,1600-2400,BROIDA,Schwinn,Cable Lock,Yes,85
+10,November,theft bicycle,Monday,0800-1600,DAVIDSON LIBRARY,Motobecane,Cable Lock,No,90
+10,February,theft bicycle,Monday,0800-1600,KERR HALL,Urban,Not Locked,Yes,120
+10,December,theft bicycle,Monday,1600-2400,EVENTSCENTER,Unknown,U-Lock,No,125
+10,February,theft bicycle,Monday,0800-1600,SANTA YNEZ,GNC,U-Lock,Yes,175
+10,December,theft bicycle,Monday,1600-2400,CAMPBELL HALL,Schwinn,Cable Lock,No,210
+10,March,theft bicycle,Monday,0800-1600,SANTA CATALINA,Schwinn,U-Lock,Yes,220
+10,April,theft bicycle,Monday,Unknown,EVENTS CENTER,Urban,U-Lock,Yes,240
+10,November,theft bicycle,Monday,1600-2400,ENGII,Trek,Cable Lock,No,300
+10,November,theft bicycle,Monday,2400-0800,SAN NICOLAS,Electra,Not Locked,Yes,300
+10,April,theft bicycle,Monday,2400-0800,SANTA CATALINA,Fuji,U-Lock,Yes,300
+10,May,theft bicycle,Monday,0800-1600,IV THEATRE,Unknown,Cable Lock,No,310
+10,October,theft bicycle,Monday,0800-1600,STUDENT HEALTH,KHS,U-Lock,No,330
+10,November,theft bicycle,Monday,0800-1600,SANTA CATALINA,Trek,U-Lock,No,380
+10,October,theft bicycle,Monday,1600-2400,CAMPBELL HALL,Fat Cycles,U-Lock,No,420
+10,February,theft bicycle,Saturday,0800-1600,LOT 32,Unknown,Not Locked,No,50
+10,March,theft bicycle,Saturday,1600-2400,STUDENT RESOURCE BLDG.,Ocean Pacific,U-Lock,No,155
+10,October,theft bicycle,Saturday,2400-0800,STORKEHOUSING,Specialized,U-Lock,No,170
+10,October,theft bicycle,Saturday,2400-0800,SANTA CATALINA,Sovereign,Cable Lock,Yes,175
+10,January,theft bicycle,Saturday,1600-2400,"RINCON HOUSE, MANZANITA",VBS,U-Lock,Yes,176
+10,February,theft bicycle,Saturday,0800-1600,"PENDOLA, LOS ROBLES QUAD",Unknown,U-Lock,No,215
+10,January,theft bicycle,Saturday,1600-2400,MANZANITA VILLAGE,Schwinn,Not Locked,Yes,225
+10,April,theft bicycle,Saturday,1600-2400,SANTA CATALINA,Unknown,U-Lock,No,240
+10,November,theft bicycle,Saturday,1600-2400,EVENT CENTER,Gary Fisher,Not listed,Yes,500
+10,May,theft bicycle,Sunday,Unknown,SANTA CATALINA,Raleigh,Cable Lock,No,120
+10,December,theft bicycle,Sunday,2400-0800,STORKE FAMILY HOUSING,Austro-Daimler,Not Locked,No,150
+10,April,theft bicycle,Sunday,2400-0800,TECOLOTE,Sekai,Not Locked,Yes,150
+10,January,theft bicycle,Sunday,1600-2400,ROBERTSON GYM,Dynoglide,Cable Lock,Yes,170
+10,October,theft bicycle,Sunday,0800-1600,ROB GYM,Urban,U-Lock,Yes,210
+10,May,theft bicycle,Sunday,0800-1600,SAN RAFAEL,Schwinn,Cable Lock,Yes,240
+10,October,theft bicycle,Sunday,1600-2400,STUDENT RESOURCES BLDG.,Electra,U-Lock,Yes,300
+10,March,theft bicycle,Sunday,2400-0800,ARTS,Tommanso Tiemdo,U-Lock,No,410
+10,November,theft bicycle,Sunday,2400-0800,SANTA CRUZ,Trek,U-Lock,Yes,550
+10,May,theft bicycle,Sunday,2400-0800,MUSIC,DiamondBack,Cable Lock,Yes,600
+10,November,theft bicycle,Sunday,1600-2400,DAVIDSON LIBRARY,Specialized,Combo,No,1220
+10,October,theft bicycle,Thursday,2400-0800,SAN RAFAEL,Unknown,Not Locked,Yes,20
+10,February,theft bicycle,Thursday,1600-2400,PSB NORTH,Motiv,Not Locked,Yes,50
+10,June,theft bicycle,Thursday,0800-1600,BROIDA,DiamondBack,U-Lock,No,75
+10,March,theft bicycle,Thursday,Unknown,KERR HALL,Zeus,Not Locked,No,80
+10,April,theft bicycle,Thursday,Unknown,HSSB,Unknown,U-Lock,No,86
+10,May,theft bicycle,Thursday,0800-1600,CARRILLO DINING COMMONS,Huffy,Cable Lock,Yes,90
+10,January,theft bicycle,Thursday,1600-2400,SANTA CATALINA,Huffy,U-Lock,Yes,90
+10,April,theft bicycle,Thursday,0800-1600,RECCEN,Unknown,U-Lock,No,92
+10,April,theft bicycle,Thursday,1600-2400,CAMPBELL,M-1,Cable Lock,Yes,95
+10,June,theft bicycle,Thursday,1600-2400,EMBARCADERO HALL,Schwinn,Not listed,No,100
+10,May,theft bicycle,Thursday,0800-1600,DAVIDSON LIBRARY,Schwinn,Cable Lock,Yes,120
+10,May,theft bicycle,Thursday,2400-0800,"JAMALA, MANZANITA",Next,Chain Lock,Yes,123
+10,July,theft bicycle,Thursday,0800-1600,CAMPBELL HALL,Trek,Cable Lock,No,130
+10,January,theft bicycle,Thursday,1600-2400,DAVIDSON LIBRARY,Firmstrong,Not Locked,Yes,150
+10,March,theft bicycle,Thursday,0800-1600,HSSB,Phat,U-Lock,Yes,190
+10,December,theft bicycle,Thursday,Unknown,SANTA CATALINA,Giant,Cable Lock,Yes,200
+10,December,theft bicycle,Thursday,1600-2400,KERR,Urban,U-Lock,Yes,200
+10,May,theft bicycle,Thursday,1600-2400,PHELPS,Firmstrong,U-Lock,Yes,220
+10,April,theft bicycle,Thursday,0800-1600,HSSB,Trek,Cable Lock,No,310
+10,July,theft bicycle,Thursday,0800-1600,PSB SOUTH,Peugeot,Cable Lock,No,320
+10,November,theft bicycle,Thursday,1600-2400,DAVIDSON LIBRARY,Schwinn,Cable Lock,No,325
+10,April,theft bicycle,Thursday,0800-1600,CHEMISTRY,Kona,Cable Lock,Yes,400
+10,March,theft bicycle,Thursday,1600-2400,DAVIDSON LIBRARY,Schwinn,Not Locked,No,500
+10,June,theft bicycle,Thursday,1600-2400,ENGI,Kline,Not Locked,No,1500
+10,May,theft bicycle,Tuesday,1600-2400,EVENTS CENTER,Schwinn,Not Locked,Yes,100
+10,April,theft bicycle,Tuesday,0800-1600,SANTA CRUZ,Motobecane,U-Lock,Yes,110
+10,June,theft bicycle,Tuesday,1600-2400,DAVIDSON LIBRARY,Nishiki,Chain Lock,No,120
+10,October,theft bicycle,Tuesday,2400-0800,SANTA CATALINA,Cruiser King,Not Locked,Yes,140
+10,January,theft bicycle,Tuesday,2400-0800,TECOLOTE HOUSE,Huffy,Cable Lock,No,170
+10,October,theft bicycle,Tuesday,0800-1600,THEATRE & DANCE,Sun,U-Lock,Yes,200
+10,February,theft bicycle,Tuesday,1600-2400,CNSI,Schwinn,U-Lock,No,220
+10,October,theft bicycle,Tuesday,2400-0800,LIBRARY,Drift,U-Lock,No,285
+10,March,theft bicycle,Tuesday,1600-2400,LIBRARY,Schwinn,Cable Lock,No,320
+10,November,theft bicycle,Tuesday,2400-0800,DAVIDSON LIBRARY,Raleigh,U-Lock,No,320
+10,October,theft bicycle,Tuesday,0800-1600,DAVIDSON LIBRARY,Unknown,U-Lock,No,350
+10,May,theft bicycle,Tuesday,0800-1600,CAMPBELL HALL,Motobecane,U-Lock,Yes,395
+10,February,theft bicycle,Tuesday,0800-1600,SRB,Bianchi,U-Lock,No,670
+10,February,theft bicycle,Tuesday,0800-1600,RECREATION CENTER,Hybrid,Cable Lock,No,715
+10,September,theft bicycle,Tuesday,0800-1600,LOT 6,Specialized,Not Locked,Yes,850
+10,October,theft bicycle,Unknown,Unknown,STUDENT RESOURCE BUILDING,Unknown,Not listed,No,40
+10,September,theft bicycle,Unknown,Unknown,ARROWHEAD VILLAGE,Mountain View,U-Lock,No,50
+10,May,theft bicycle,Unknown,Unknown,STORKEHOUSING,Unknown,U-Lock,No,50
+10,December,theft bicycle,Unknown,Unknown,SAN RAFAEL,Vital,Not Locked,Yes,50
+10,December,theft bicycle,Unknown,Unknown,SANTA CATALINA,Unknown,Cable Lock,No,60
+10,June,theft bicycle,Unknown,Unknown,ARROWHEAD VILLAGE,Classic,Not listed,No,60
+10,November,theft bicycle,Unknown,Unknown,"GAYLEY WALK, WEST CAMPUS FAMILY HOUSING",Diamond,Not Locked,No,60
+10,October,theft bicycle,Unknown,Unknown,SAN RAFAEL,Huffy,U-Lock,Yes,60
+10,February,theft bicycle,Unknown,Unknown,SANTA CATALINA,Murray,U-Lock,Yes,62
+10,February,theft bicycle,Unknown,Unknown,BUS LOOP,Magna,Cable Lock,Yes,70
+10,November,theft bicycle,Unknown,Unknown,ANACAPA,Huffy,U-Lock,Yes,70
+10,September,theft bicycle,Unknown,Unknown,SANTA ROSA,Pacific,U-Lock,Yes,75
+10,September,theft bicycle,Unknown,Unknown,BROIDA,Next,Cable Lock,Yes,80
+10,April,theft bicycle,Unknown,Unknown,BUS LOOP,Huffy,Cable Lock,Yes,90
+10,February,theft bicycle,Unknown,Unknown,PARKING LOT 2,American Flyer,Not Locked,Yes,90
+10,October,theft bicycle,Unknown,Unknown,SANTA CATALINA,Huffy,U-Lock,Yes,90
+10,April,theft bicycle,Unknown,Unknown,SOUTH HALL,Urban,U-Lock,Yes,90
+10,July,theft bicycle,Unknown,Unknown,DAVIDSON LIBRARY,Trek,Cable Lock,No,95
+10,May,theft bicycle,Unknown,Unknown,SAN RAFAEL,Firmstrong,Cable Lock,Yes,95
+10,August,theft bicycle,Unknown,Unknown,DAVIDSON LIBRARY,Roadmaster,Cable Lock,Yes,95
+10,March,theft bicycle,Unknown,Unknown,ARROWHEAD VILAGE,Centurian,Cable Lock,No,100
+10,December,theft bicycle,Unknown,Unknown,SANTA CATALINA,Diamondback,Not listed,No,100
+10,October,theft bicycle,Unknown,Unknown,STORKEHOUSING,Centurion,Not Locked,No,100
+10,October,theft bicycle,Unknown,Unknown,SANTA CATALINA,Electra,Cable Lock,Yes,100
+10,February,theft bicycle,Unknown,Unknown,SANTA CATALINA,Firmstrong,Not listed,Yes,100
+10,March,theft bicycle,Unknown,Unknown,SANTA CATALINA,Hyper,Padlock,Yes,100
+10,December,theft bicycle,Unknown,Unknown,SAN MIGUEL,Huffy,U-Lock,Yes,100
+10,April,theft bicycle,Unknown,Unknown,SANTA CATALINA,Huffy,U-Lock,Yes,100
+10,October,theft bicycle,Unknown,Unknown,ANACAPA,Se,U-Lock,Yes,100
+10,May,theft bicycle,Unknown,Unknown,SRB,Unknown,U-Lock,No,105
+10,January,theft bicycle,Unknown,Unknown,WESTGATE APTS.,Huffy,Cable Lock,No,110
+10,October,theft bicycle,Unknown,Unknown,"LA CUMBRE, LA PATERA",DeLaCruz,Cable Lock,Yes,110
+10,February,theft bicycle,Unknown,Unknown,LIBRARY,Micargi,Cable Lock,Yes,110
+10,May,theft bicycle,Unknown,Unknown,SANTA CATALINA,Schwinn,Cable Lock,Yes,110
+10,June,theft bicycle,Unknown,Unknown,SAN RAFAEL,Micargi,U-Lock,Yes,110
+10,July,theft bicycle,Unknown,Unknown,SANTA CRUZ,Unknown,Not Locked,Yes,112
+10,January,theft bicycle,Unknown,Unknown,SANTA CATALINA,Huffy,U-Lock,Yes,112
+10,February,theft bicycle,Unknown,Unknown,SANTA ROSA,Micargi,U-Lock,Yes,112
+10,February,theft bicycle,Unknown,Unknown,SANTA CATALINA,Free Agent,U-Lock,Yes,115
+10,March,theft bicycle,Unknown,Unknown,"MADULCE, LOS ROBLES QUAD",Micargi,U-Lock,Yes,115
+10,April,theft bicycle,Unknown,Unknown,SANTA CATALINA,GT,Cable Lock,No,120
+10,June,theft bicycle,Unknown,Unknown,CARRILLO,Trek,Cable Lock,No,120
+10,February,theft bicycle,Unknown,Unknown,SRB,Next,Cable Lock,Yes,120
+10,October,theft bicycle,Unknown,Unknown,SANTA YNEZ APT.,Road Master,Cable Lock,Yes,120
+10,May,theft bicycle,Unknown,Unknown,SANTA CRUZ RACKS,Huffy,Chain Lock,Yes,120
+10,November,theft bicycle,Unknown,Unknown,SAN NICOLAS,Huffy,U-Lock,Yes,120
+10,May,theft bicycle,Unknown,Unknown,SANTA ROSA RACKS,Pacific,U-Lock,Yes,120
+10,February,theft bicycle,Unknown,Unknown,SANTA CRUZ,Next,Cable Lock,Yes,125
+10,September,theft bicycle,Unknown,Unknown,SANTA ROSA,Phat,Cable Lock,Yes,125
+10,May,theft bicycle,Unknown,Unknown,UCEN,Magna,U-Lock,Yes,125
+10,April,theft bicycle,Unknown,Unknown,SAN NICOLAS,Next,U-Lock,Yes,125
+10,January,theft bicycle,Unknown,Unknown,BREN SCHOOL,Unknown,U-Lock,Yes,125
+10,June,theft bicycle,Unknown,Unknown,ANACAPA,Trek,U-Lock,Yes,130
+10,November,theft bicycle,Unknown,Unknown,SAASB NORTH,Univega,Cable Lock,Yes,135
+10,October,theft bicycle,Unknown,Unknown,ANACAPA,Huffy,U-Lock,Yes,135
+10,March,theft bicycle,Unknown,Unknown,ZACA HOUSE,Unknown,U-Lock,No,140
+10,September,theft bicycle,Unknown,Unknown,THEATRE & DANCE,Micargi,U-Lock,Yes,140
+10,February,theft bicycle,Unknown,Unknown,ANACAPA,Micargi,Cable Lock,Yes,145
+10,April,theft bicycle,Unknown,Unknown,SANTA CATALINA,Firmstrong,Chain Lock,Yes,145
+10,May,theft bicycle,Unknown,Unknown,SANTA ROSA,Iron Horse,Not listed,No,150
+10,August,theft bicycle,Unknown,Unknown,BOLTON WALK,Huffy,Not Locked,No,150
+10,November,theft bicycle,Unknown,Unknown,EASTGATE,Huffy,Cable Lock,Yes,150
+10,February,theft bicycle,Unknown,Unknown,LIBRARY,Micargi,Cable Lock,Yes,150
+10,November,theft bicycle,Unknown,Unknown,SANTA YNEZ APT.,Draft,U-Lock,Yes,150
+10,June,theft bicycle,Unknown,Unknown,SAN MIGUEL,Nishiki,U-Lock,Yes,150
+10,January,theft bicycle,Unknown,Unknown,DELAGUERRA,Schwinn,U-Lock,Yes,150
+10,August,theft bicycle,Unknown,Unknown,UCEN,Schwinn,U-Lock,Yes,150
+10,May,theft bicycle,Unknown,Unknown,SANTA CATALINA,Firmstrong,Cable Lock,No,160
+10,November,theft bicycle,Unknown,Unknown,Q3,Gary Fisher,Cable Lock,Yes,160
+10,April,theft bicycle,Unknown,Unknown,SANTA CATALINA,Firmstrong,Cable Lock,Yes,165
+10,February,theft bicycle,Unknown,Unknown,Q3,Micargi,Cable Lock,Yes,165
+10,October,theft bicycle,Unknown,Unknown,NORTH HALL,Shimano,U-Lock,Yes,165
+10,November,theft bicycle,Unknown,Unknown,SANTA CATALINA,Firmstrong,Not Locked,Yes,170
+10,September,theft bicycle,Unknown,Unknown,SANTA YNEZ APT.,Micargi,U-Lock,Yes,170
+10,May,theft bicycle,Unknown,Unknown,SAN NIC,Peugeot,U-Lock,Yes,170
+10,January,theft bicycle,Unknown,Unknown,ANACAPA HALL,Firmstrong,U-Lock,Yes,171
+10,July,theft bicycle,Unknown,Unknown,SANTA CATALINA,Roadmaster,Cable Lock,Yes,175
+10,August,theft bicycle,Unknown,Unknown,SAN NICOLAS,Mongoose,Cable Lock,Yes,180
+10,May,theft bicycle,Unknown,Unknown,DONNER,Urban,Cable Lock,Yes,180
+10,February,theft bicycle,Unknown,Unknown,SANTA YNEZ,Schwinn,Not Locked,Yes,180
+10,January,theft bicycle,Unknown,Unknown,CUYAMA HOUSE,Micargi,U-Lock,Yes,180
+10,June,theft bicycle,Unknown,Unknown,SAN MIGUEL,Firmstrong,U-Lock,No,190
+10,April,theft bicycle,Unknown,Unknown,SANTA CATALINA,Schwinn,U-Lock,Yes,190
+10,October,theft bicycle,Unknown,Unknown,CHEMISTRY,Schwinn,Cable Lock,No,200
+10,May,theft bicycle,Unknown,Unknown,EVENTS CENTER,3G,U-Lock,No,200
+10,June,theft bicycle,Unknown,Unknown,EL DORADO,Giant,U-Lock,No,200
+10,September,theft bicycle,Unknown,Unknown,SAN RAFAEL,Raleigh,U-Lock,No,200
+10,May,theft bicycle,Unknown,Unknown,SANTA CATALINA,Firmstrong,Cable Lock,Yes,200
+10,October,theft bicycle,Unknown,Unknown,SANTA CATALINA,Firmstrong,Cable Lock,Yes,200
+10,February,theft bicycle,Unknown,Unknown,"TECOLOTE, LAS ENCINAS QUAD",Diamondback,Chain Lock,Yes,200
+10,May,theft bicycle,Unknown,Unknown,SANTA CATALINA,Diamondback,Not listed,Yes,200
+10,June,theft bicycle,Unknown,Unknown,SAN RAFAEL,Raleigh,Not listed,Yes,200
+10,June,theft bicycle,Unknown,Unknown,SANTA YNEZ,SE,Not listed,Yes,200
+10,November,theft bicycle,Unknown,Unknown,SAN RAFAEL,Unknown,Not listed,Yes,200
+10,February,theft bicycle,Unknown,Unknown,SANTA CRUZ,Electra,Not Locked,Yes,200
+10,January,theft bicycle,Unknown,Unknown,SAN MIGUEL,Huffy,Not Locked,Yes,200
+10,February,theft bicycle,Unknown,Unknown,SAN RAFAEL,Schwinn,Not Locked,Yes,200
+10,November,theft bicycle,Unknown,Unknown,SANTA CATALINA,Giant,U-Lock,Yes,200
+10,June,theft bicycle,Unknown,Unknown,SANTA CATALINA,Micargi,U-Lock,Yes,200
+10,March,theft bicycle,Unknown,Unknown,SANTA CATALINA,Phat,U-Lock,Yes,200
+10,February,theft bicycle,Unknown,Unknown,SAN NICOLAS,3G,U-Lock,Yes,205
+10,September,theft bicycle,Unknown,Unknown,SAN NICOLAS,Flyer,U-Lock,Yes,205
+10,April,theft bicycle,Unknown,Unknown,SAN MIGUEL,Schwinn,U-Lock,No,208
+10,February,theft bicycle,Unknown,Unknown,HSSB,Firmstrong,U-Lock,No,210
+10,June,theft bicycle,Unknown,Unknown,"MIRANDA, LAS ENCINAS",Schwinn,U-Lock,Yes,210
+10,March,theft bicycle,Unknown,Unknown,ANACAPA,Schwinn,Cable Lock,No,215
+10,March,theft bicycle,Unknown,Unknown,SAN CLEMENTE,Trek,U-Lock,No,215
+10,February,theft bicycle,Unknown,Unknown,SRB,Urban,U-Lock,No,215
+10,June,theft bicycle,Unknown,Unknown,BUS LOOP,Sun,Cable Lock,Yes,215
+10,September,theft bicycle,Unknown,Unknown,SAN RAFAEL,Motobecane,Cable Lock,No,220
+10,June,theft bicycle,Unknown,Unknown,SANTA YNEZ APTS.,Schwinn,U-Lock,No,220
+10,May,theft bicycle,Unknown,Unknown,SANTA CATALINA,Mongoose,Cable Lock,Yes,220
+10,November,theft bicycle,Unknown,Unknown,NORTH HALL,Firmstrong,U-Lock,Yes,220
+10,November,theft bicycle,Unknown,Unknown,SAN NICOLAS,Firmstrong,U-Lock,Yes,220
+10,January,theft bicycle,Unknown,Unknown,SANTA CATALINA,Schwinn,U-Lock,Yes,220
+10,September,theft bicycle,Unknown,Unknown,SAN MIGUEL,Schwinn,U-Lock,No,225
+10,March,theft bicycle,Unknown,Unknown,SANTA ROSA,Gary Fisher,U-Lock,Yes,225
+10,January,theft bicycle,Unknown,Unknown,SAN RAFAEL HALL,Urban,U-Lock,No,230
+10,April,theft bicycle,Unknown,Unknown,SANTA ROSA,Draft,U-Lock,No,260
+10,June,theft bicycle,Unknown,Unknown,SANTA CATALINA,Fuji,U-Lock,Yes,260
+10,March,theft bicycle,Unknown,Unknown,DAVIDSON LIBRARY,Trek,U-Lock,No,270
+10,July,theft bicycle,Unknown,Unknown,SANTA CATALINA,Unknown,U-Lock,No,270
+10,October,theft bicycle,Unknown,Unknown,SAN RAFAEL,Firmstrong,Cable Lock,Yes,270
+10,May,theft bicycle,Unknown,Unknown,SANTA ROSA,Firmstrong,U-Lock,Yes,270
+10,April,theft bicycle,Unknown,Unknown,WEST CAMPUS HOUSING,Giant,U-Lock,No,280
+10,September,theft bicycle,Unknown,Unknown,DELAGUERRA COMMONS,Firmstrong,U-Lock,Yes,285
+10,October,theft bicycle,Unknown,Unknown,SANTA ROSA,Micargi,U-Lock,Yes,285
+10,September,theft bicycle,Unknown,Unknown,SANTA ROSA,Specialized,Cable Lock,Yes,300
+10,April,theft bicycle,Unknown,Unknown,LOT 38,Schwinn,U-Lock,Yes,300
+10,April,theft bicycle,Unknown,Unknown,SANTA CATALINA,SE,U-Lock,Yes,300
+10,June,theft bicycle,Unknown,Unknown,SANTA ROSA,Unknown,Cable Lock,No,310
+10,March,theft bicycle,Unknown,Unknown,SAN CLEMENTE,Diamondback,U-Lock,No,315
+10,November,theft bicycle,Unknown,Unknown,"PENDOLA, LOS ROBLES QUAD",Fuji,Cable Lock,Yes,315
+10,February,theft bicycle,Unknown,Unknown,"ZACA HOUSE, MANZANITA",Greenline,Cable Lock,Yes,315
+10,February,theft bicycle,Unknown,Unknown,SAN MIGUEL,GT,U-Lock,Yes,315
+10,June,theft bicycle,Unknown,Unknown,SANTA YNEZ,Fixie,U-Lock,No,320
+10,January,theft bicycle,Unknown,Unknown,HSSB,Giant,Cable Lock,Yes,320
+10,October,theft bicycle,Unknown,Unknown,SANTA CATALINA,Laguna,Cable Lock,Yes,325
+10,October,theft bicycle,Unknown,Unknown,ORTEGA COMMONS,phat,U-Lock,Yes,330
+10,November,theft bicycle,Unknown,Unknown,DAVIDSON LIBRARY,GT,U-Lock,Yes,340
+10,February,theft bicycle,Unknown,Unknown,SANTA CATALINA,Specialized,U-Lock,Yes,420
+10,February,theft bicycle,Unknown,Unknown,ARTS,Centurian,Cable Lock,No,425
+10,March,theft bicycle,Unknown,Unknown,SANTA CATALINA,Electra,U-Lock,Yes,430
+10,April,theft bicycle,Unknown,Unknown,SANTA ROSA,Electra,U-Lock,Yes,440
+10,September,theft bicycle,Unknown,Unknown,STORKEHOUSING,Cannondale,Cable Lock,No,450
+10,May,theft bicycle,Unknown,Unknown,SANTA CATALINA,Giant,U-Lock,Yes,450
+10,October,theft bicycle,Unknown,Unknown,"FIGUEROA, LOS ROBLES QUAD",Trek,Cable Lock,Yes,485
+10,May,theft bicycle,Unknown,Unknown,"MADULCE, LOS ROBLES",Trek,Cable Lock,No,505
+10,November,theft bicycle,Unknown,Unknown,SANTA YNEZ,Trek,Cable Lock,No,560
+10,October,theft bicycle,Unknown,Unknown,SANTA ROSA,Peugeot,U-Lock,Yes,560
+10,May,theft bicycle,Unknown,Unknown,UCPD IMPOUND YARD,Specialized,Not Locked,No,600
+10,September,theft bicycle,Unknown,Unknown,CYPRESS WALK,Cannondale,Cable Lock,Yes,800
+10,February,theft bicycle,Unknown,Unknown,SANTA CATALINA,Trek,Cable Lock,Yes,825
+10,July,theft bicycle,Unknown,Unknown,SANTA CRUZ,Specialized,U-Lock,No,925
+10,June,theft bicycle,Unknown,Unknown,"SAN CLEMENTE, ENCINO",Giant,Cable Lock,No,1000
+10,March,theft bicycle,Unknown,Unknown,STORKETOWER,Parkpre Tange,U-Lock,No,1006
+10,November,theft bicycle,Unknown,Unknown,SANTA ROSA,Schwinn,U-Lock,Yes,1008
+10,March,theft bicycle,Unknown,Unknown,REC CEN,Cannondale,U-Lock,No,1020
+10,August,theft bicycle,Unknown,Unknown,SANTA YNEZ,Kona,U-Lock,No,1025
+10,April,theft bicycle,Wednesday,0800-1600,LOT 32,Specialized,Not Locked,No,60
+10,September,theft bicycle,Wednesday,0800-1600,STORKEHOUSING,Unknown,Cable Lock,No,95
+10,March,theft bicycle,Wednesday,1600-2400,MUSIC,3G,U-Lock,Yes,110
+10,May,theft bicycle,Wednesday,0800-1600,KERR HALL,Specialized,U-Lock,No,130
+10,January,theft bicycle,Wednesday,1600-2400,SANTA CATALINA,Micargi,U-Lock,Yes,145
+10,January,theft bicycle,Wednesday,0800-1600,SANTA CRUZ HALL,3G,Cable Lock,No,160
+10,May,theft bicycle,Wednesday,1600-2400,"FIGUEROA, LOS ROBLOS QUAD",Nirve,U-Lock,Yes,165
+10,July,theft bicycle,Wednesday,0800-1600,CAMPBELL HALL,GMC,Cable Lock,No,170
+10,April,theft bicycle,Wednesday,2400-0800,"CIENEGA, LAS ENCINAS",Firmstrong,U-Lock,No,170
+10,January,theft bicycle,Wednesday,0800-1600,DAVIDSON LIBRARY,Ocean Pacific,Cable Lock,Yes,170
+10,May,theft bicycle,Wednesday,0800-1600,STUDENT HEALTH,Unknown,Not listed,Yes,200
+10,October,theft bicycle,Wednesday,1600-2400,GIRVETZ,Micard,U-Lock,Yes,212
+10,July,theft bicycle,Wednesday,0800-1600,UCEN,Unknown,Cable Lock,Yes,218
+10,February,theft bicycle,Wednesday,1600-2400,"CONDOR, LA PATERA",3D,U-Lock,Yes,290
+10,November,theft bicycle,Wednesday,0800-1600,SAN CLEMENTE,Nishiki,Cable Lock,No,320
+10,October,theft bicycle,Wednesday,0800-1600,ROBERTSON GYM,Townie,Cable Lock,Yes,350
+10,March,theft bicycle,Wednesday,1600-2400,LIBRARY,Specialized,U-Lock,No,980
+10,April,theft bicycle,Wednesday,0800-1600,THEATRE & DANCE,IRO,U-Lock,No,1220
+10,April,theft bicycle,Wednesday,0800-1600,WEBB HALL,Specialized,Not Locked,No,4000
+11,June,theft bicycle,Friday,0800-1600,PSB NORTH,Kobe,U-Lock,No,11
+11,September,theft bicycle,Friday,1600-2400,RECCEN,Mongoose,Not Locked,Yes,150
+11,November,theft bicycle,Friday,0800-1600,SAN NICOLAS RACKS,Trek,Not Locked,Yes,150
+11,March,theft bicycle,Friday,0800-1600,BROIDA,Schwinn,U-Lock,Yes,170
+11,October,theft bicycle,Friday,1600-2400,MUSIC,Micargi,Not listed,No,200
+11,September,theft bicycle,Friday,0800-1600,RECCEN,Schwinn,U-Lock,No,200
+11,June,theft bicycle,Friday,2400-0800,ARTS,Schwinn,U-Lock,Yes,220
+11,January,theft bicycle,Friday,2400-0800,MANZANITA VILLAGE,Firmstrong,U-Lock,Yes,225
+11,June,theft bicycle,Friday,Unknown,MUSIC,Schwinn,U-Lock,No,250
+11,April,theft bicycle,Friday,1600-2400,CAMPBELL HALL,Greenline,Combo,Yes,250
+11,July,theft bicycle,Friday,0800-1600,HSSB,PAKE,Combo,No,300
+11,May,theft bicycle,Friday,0800-1600,LIFE SCIENCES BLDG.,Unknown,Cable Lock,No,320
+11,June,theft bicycle,Friday,1600-2400,DAVIDSON LIBRARY,Raleigh,U-Lock,No,320
+11,May,theft bicycle,Friday,0800-1600,SAASB,Specialized,Cable Lock,No,340
+11,April,theft bicycle,Friday,2400-0800,DAVIDSON LIBRARY,Fuji,Not Locked,Yes,400
+11,November,theft bicycle,Friday,Unknown,SANTA CRUZ BIKE RACKS,SE,U-Lock,Yes,400
+11,February,theft bicycle,Friday,0800-1600,INTERCOLLEGIATE ATHLETICS,Tommaso,Cable Lock,No,425
+11,October,theft bicycle,Friday,2400-0800,SAN CLEMENTE,Giant,Cable Lock,Yes,435
+11,April,theft bicycle,Friday,0800-1600,KERR HALL,Firmstrong,Not Locked,Yes,479
+11,August,theft bicycle,Friday,0800-1600,STUDENT RESOURCES BLDG.,Specialized,Combo,No,1220
+11,March,theft bicycle,Monday,0800-1600,SRB,Upland,Chain Lock,Yes,70
+11,January,theft bicycle,Monday,0800-1600,SANTA CRUZ,Huffy,Not Locked,Yes,75
+11,July,theft bicycle,Monday,0800-1600,ANACAPA,Micargi,Not Locked,Yes,100
+11,June,theft bicycle,Monday,0800-1600,KERR HALL,Unknown,U-Lock,Yes,120
+11,September,theft bicycle,Monday,0800-1600,UCEN,Unknown,Cable Lock,Yes,140
+11,October,theft bicycle,Monday,0800-1600,CAMPBELL HALL,3G,U-Lock,No,160
+11,October,theft bicycle,Monday,0800-1600,UCEN,Isla Vista,U-Lock,No,194
+11,April,theft bicycle,Monday,2400-0800,HSSB,Blaster,U-Lock,Yes,200
+11,October,theft bicycle,Monday,1600-2400,KERR HALL,CREAM,U-Lock,No,242
+11,May,theft bicycle,Monday,0800-1600,CHEMISTRY,Cannondale,Cable Lock,Yes,270
+11,April,theft bicycle,Monday,1600-2400,MUSIC,SE,U-Lock,Yes,290
+11,June,theft bicycle,Monday,1600-2400,REC CEN,Retro,Cable Lock,No,300
+11,May,theft bicycle,Monday,1600-2400,ORTEGA COMMONS,Retro,U-Lock,No,320
+11,April,theft bicycle,Monday,0800-1600,NOBLE HALL,Trek,Not listed,Yes,400
+11,May,theft bicycle,Monday,0800-1600,SOUTH HALL,Jamis,Cable Lock,No,454
+11,May,theft bicycle,Monday,0800-1600,LIBRARY,Austro-Daimler,Cable Lock,No,510
+11,August,theft bicycle,Monday,0800-1600,SOUTH HALL,Trek,U-Lock,No,575
+11,August,theft bicycle,Monday,0800-1600,BUS LOOP,Fuji,U-Lock,No,675
+11,September,theft bicycle,Saturday,0800-1600,DELAGUERRA,Huffy,Not Locked,Yes,60
+11,May,theft bicycle,Saturday,1600-2400,"CUYAMA HOUSE, MANZANITA",Trek,Not listed,No,100
+11,May,theft bicycle,Saturday,2400-0800,ENCINO,Urban,Not Locked,No,120
+11,June,theft bicycle,Saturday,2400-0800,ANACAPA,Nishiki,U-Lock,No,150
+11,May,theft bicycle,Saturday,2400-0800,SANTA CATALINA,Urban,U-Lock,Yes,160
+11,January,theft bicycle,Saturday,2400-0800,MANZANITA VILLAGE,Phat,U-Lock,Yes,220
+11,May,theft bicycle,Saturday,0800-1600,STORKETOWER,khs,U-Lock,Yes,425
+11,December,theft bicycle,Saturday,1600-2400,BROIDA,Micargi,U-Lock,No,440
+11,March,theft bicycle,Saturday,1600-2400,DAVIDSON LIBRARY,Mercier,U-Lock,Yes,1020
+11,August,theft bicycle,Sunday,Unknown,SAN RAFAEL,Schwinn,Not listed,Yes,95
+11,November,theft bicycle,Sunday,Unknown,ORTEGA COMMONS,Roadmaster,Cable Lock,Yes,120
+11,May,theft bicycle,Sunday,1600-2400,HARDER STADIUM,Fixxies,U-Lock,No,170
+11,December,theft bicycle,Sunday,1600-2400,CHEMISTRY,Rockhopper,Cable Lock,No,200
+11,October,theft bicycle,Sunday,0800-1600,SANTA CATALINA,unknown,U-Lock,Yes,200
+11,October,theft bicycle,Sunday,2400-0800,ARTS,REI,Cable Lock,No,210
+11,October,theft bicycle,Sunday,0800-1600,SANTA CATALINA,Marin,U-Lock,Yes,320
+11,October,theft bicycle,Sunday,1600-2400,CHEMISTRY,Univega,Cable Lock,No,325
+11,July,theft bicycle,Sunday,1600-2400,LOT 51,DiamondBack,Cable Lock,No,500
+11,May,theft bicycle,Sunday,2400-0800,BROIDA,Unknown,U-Lock,No,662
+11,October,theft bicycle,Sunday,1600-2400,RECCEN,Trek,Combo,No,815
+11,April,theft bicycle,Sunday,2400-0800,DAVIDSON LIBRARY,Univega,U-Lock,No,830
+11,October,theft bicycle,Sunday,Unknown,SANTA CATALINA,Specialized,U-Lock,No,2100
+11,September,theft bicycle,Thursday,1600-2400,ENGII,Unknown,Not Locked,No,30
+11,April,theft bicycle,Thursday,1600-2400,WEST CAMPUS STABLES,Shimano,Not Locked,Yes,100
+11,February,theft bicycle,Thursday,0800-1600,CAMPBELL HALL,Schwinn,U-Lock,Yes,100
+11,July,theft bicycle,Thursday,0800-1600,SOUTH HALL,Unknown,U-Lock,Yes,115
+11,May,theft bicycle,Thursday,1600-2400,RECCEN,Bianchi,Not Locked,No,150
+11,October,theft bicycle,Thursday,0800-1600,PHELPS HALL,Dawes,Cable Lock,No,160
+11,August,theft bicycle,Thursday,0800-1600,ENCINO VILLAGE,Unknown,U-Lock,No,170
+11,June,theft bicycle,Thursday,1600-2400,STORKEHOUSING,Huffy,Combo,No,200
+11,April,theft bicycle,Thursday,0800-1600,SOUTH HALL,SE,Cable Lock,No,215
+11,May,theft bicycle,Thursday,0800-1600,SOUTH HALL,3G,Not listed,Yes,215
+11,March,theft bicycle,Thursday,1600-2400,DAVIDSON LIBRARY,Raleigh,U-Lock,Yes,230
+11,April,theft bicycle,Thursday,1600-2400,PSYCHOLOGY,SE,Cable Lock,Yes,250
+11,January,theft bicycle,Thursday,1600-2400,ARTS,Schwinn,Cable Lock,Yes,270
+11,March,theft bicycle,Thursday,0800-1600,DAVIDSON LIBRARY,Skinny Benny,Not listed,No,300
+11,May,theft bicycle,Thursday,1600-2400,LIBRARY,Electra,Cable Lock,Yes,300
+11,May,theft bicycle,Thursday,1600-2400,SAN CLEMENTE,Scott,Cable Lock,Yes,320
+11,January,theft bicycle,Thursday,0800-1600,KERR HALL,Ross,U-Lock,Yes,320
+11,September,theft bicycle,Thursday,0800-1600,SOUTH HALL,Marin,U-Lock,No,360
+11,August,theft bicycle,Thursday,0800-1600,SAN CLEMENTE,Raleigh,Cable Lock,Yes,470
+11,August,theft bicycle,Thursday,0800-1600,"SAN CLEMENTE, CASTIAC VILLAGE",Schwinn,Cable Lock,No,520
+11,August,theft bicycle,Thursday,0800-1600,KERR HALL,Cannondale,U-Lock,No,620
+11,February,theft bicycle,Thursday,1600-2400,DAVIDSON LIBRARY,Bianchi,Cable Lock,Yes,715
+11,May,theft bicycle,Thursday,0800-1600,ENCINO VILLAGE,Specialized,Cable Lock,No,820
+11,October,theft bicycle,Thursday,0800-1600,GIRVETZ,Lemond,U-Lock,No,950
+11,November,theft bicycle,Tuesday,1600-2400,ROB GYM,Schwinn,U-Lock,Yes,95
+11,May,theft bicycle,Tuesday,1600-2400,DELAGUERRA,Schwinn,U-Lock,Yes,120
+11,January,theft bicycle,Tuesday,0800-1600,STUDENT RESOURCE BUILDING,Micargi,Not Locked,Yes,130
+11,October,theft bicycle,Tuesday,0800-1600,SAN CLEMENTE,Schwinn,Cable Lock,Yes,160
+11,April,theft bicycle,Tuesday,1600-2400,DAVIDSON LIBRARY,Unknown,U-Lock,No,175
+11,October,theft bicycle,Tuesday,0800-1600,ENGII,Schwinn,Cable Lock,Yes,190
+11,March,theft bicycle,Tuesday,2400-0800,HSSB,Blaster,U-Lock,No,200
+11,April,theft bicycle,Tuesday,1600-2400,BUCHANAN,Villano,Not Locked,No,230
+11,June,theft bicycle,Tuesday,0800-1600,SANTA CATALINA,Micargi,Cable Lock,Yes,270
+11,January,theft bicycle,Tuesday,1600-2400,DE LA GUERRA,Force,U-Lock,No,300
+11,May,theft bicycle,Tuesday,0800-1600,BROIDA,Fuji,U-Lock,Yes,300
+11,July,theft bicycle,Tuesday,0800-1600,DAVIDSON LIBRARY,Pacific,U-Lock,Yes,320
+11,October,theft bicycle,Tuesday,0800-1600,RECCEN,Mercier,Cable Lock,No,330
+11,September,theft bicycle,Tuesday,0800-1600,SANTA CATALINA,Schwinn,U-Lock,No,330
+11,June,theft bicycle,Tuesday,0800-1600,PHELPS,Giant,Chain Lock,No,400
+11,April,theft bicycle,Tuesday,1600-2400,RECCEN,Gravity,Cable Lock,No,430
+11,June,theft bicycle,Tuesday,0800-1600,WOODHOUSE LABS,Scott,Not Locked,No,950
+11,June,theft bicycle,Unknown,Unknown,SAN RAFAEL,Magna,Cable Lock,Yes,20
+11,September,theft bicycle,Unknown,Unknown,HSSB,Firmstrong,Not Locked,No,25
+11,September,theft bicycle,Unknown,Unknown,CUYAMA. LOS ROBLES,Unknown,Cable Lock,No,40
+11,February,theft bicycle,Unknown,Unknown,EL DORADO,Freespirit,Cable Lock,Yes,40
+11,August,theft bicycle,Unknown,Unknown,ENGII,Huffy,Cable Lock,No,50
+11,May,theft bicycle,Unknown,Unknown,SANTA CATALINA,Giant,Not listed,No,50
+11,May,theft bicycle,Unknown,Unknown,SAN CLEMENTE,Open Road,Cable Lock,Yes,60
+11,October,theft bicycle,Unknown,Unknown,SAN MIGUEL,Diamondback,U-Lock,Yes,65
+11,January,theft bicycle,Unknown,Unknown,THEATRE & DANCE,Firmstrong,Cable Lock,Yes,70
+11,June,theft bicycle,Unknown,Unknown,LIBRARY,Electra,U-Lock,Yes,70
+11,October,theft bicycle,Unknown,Unknown,SANTA CATALINA,Gary Fisher,Cable Lock,Yes,75
+11,May,theft bicycle,Unknown,Unknown,SAN MIGUEL,Nishiki,Not listed,Yes,75
+11,November,theft bicycle,Unknown,Unknown,ANACAPA,Schwinn,U-Lock,Yes,75
+11,October,theft bicycle,Unknown,Unknown,STORKEHOUSING,Huffy,Not Locked,No,80
+11,July,theft bicycle,Unknown,Unknown,SAN RAFAEL,Northwoods,U-Lock,Yes,80
+11,June,theft bicycle,Unknown,Unknown,LOT 38,Royce Union,U-Lock,Yes,90
+11,November,theft bicycle,Unknown,Unknown,KERR HALL,Mongoose,U-Lock,Yes,95
+11,June,theft bicycle,Unknown,Unknown,SAN MIGUEL,PHAT,U-Lock,Yes,95
+11,February,theft bicycle,Unknown,Unknown,RECCEN,Performance,Not listed,No,100
+11,September,theft bicycle,Unknown,Unknown,UCEN,Murray,Cable Lock,Yes,100
+11,May,theft bicycle,Unknown,Unknown,BUS LOOP,Schwinn,Cable Lock,Yes,100
+11,January,theft bicycle,Unknown,Unknown,LIBRARY,Raleigh,Not listed,Yes,100
+11,November,theft bicycle,Unknown,Unknown,ANACAPA BIKE RACKS,Huffy,U-Lock,Yes,100
+11,December,theft bicycle,Unknown,Unknown,SANTA CATALINA,Quasar,Cable Lock,Yes,105
+11,July,theft bicycle,Unknown,Unknown,WESTGATE APT.,Unknown,Cable Lock,No,110
+11,November,theft bicycle,Unknown,Unknown,"ARGUELLO, LAS ENCINAS QUAD",Pacific,U-Lock,No,110
+11,May,theft bicycle,Unknown,Unknown,SAN MIGUEL,Magna,Cable Lock,Yes,110
+11,June,theft bicycle,Unknown,Unknown,SANTA CRUZ,Murray,Cable Lock,Yes,110
+11,September,theft bicycle,Unknown,Unknown,SAN MIGUEL,Specialized,Cable Lock,Yes,113
+11,July,theft bicycle,Unknown,Unknown,ENGII,Montego,Padlock,No,115
+11,July,theft bicycle,Unknown,Unknown,SANTA CATALINA,Firmstrong,Cable Lock,Yes,115
+11,June,theft bicycle,Unknown,Unknown,STORKEHOUSING,City Limit,Cable Lock,No,120
+11,September,theft bicycle,Unknown,Unknown,SAN MIGUEL,Magna,U-Lock,No,120
+11,June,theft bicycle,Unknown,Unknown,SANTA CATALINA,Jamis,Cable Lock,Yes,120
+11,September,theft bicycle,Unknown,Unknown,SAN NICOLAS,Magna,Cable Lock,Yes,120
+11,April,theft bicycle,Unknown,Unknown,SANTA CRUZ,DiamondBack,U-Lock,Yes,120
+11,October,theft bicycle,Unknown,Unknown,SANTA CRUZ,HANTER,U-Lock,Yes,120
+11,November,theft bicycle,Unknown,Unknown,EVENTS CENTER,KHS,U-Lock,Yes,120
+11,August,theft bicycle,Unknown,Unknown,SAN MIGUEL,Genesis,U-Lock,No,125
+11,November,theft bicycle,Unknown,Unknown,SOUTH HALL,Raleigh,U-Lock,No,125
+11,October,theft bicycle,Unknown,Unknown,SAN RAFAEL,Haro,Cable Lock,Yes,130
+11,January,theft bicycle,Unknown,Unknown,SANTA CATALINA,Huffy,Cable Lock,Yes,130
+11,June,theft bicycle,Unknown,Unknown,UCEN,Upland,Cable Lock,Yes,130
+11,January,theft bicycle,Unknown,Unknown,SANTA CRUZ,Firmstrong,U-Lock,Yes,135
+11,October,theft bicycle,Unknown,Unknown,CAMPBELL HALL,Trek,Cable Lock,Yes,140
+11,September,theft bicycle,Unknown,Unknown,SAN NICOLAS,Unknown,U-Lock,Yes,140
+11,September,theft bicycle,Unknown,Unknown,SANTA ROSA,KHS,Cable Lock,No,150
+11,December,theft bicycle,Unknown,Unknown,ENGI,Phat,Cable Lock,No,150
+11,May,theft bicycle,Unknown,Unknown,"PENDOLS, LOS ROBLES",Diamondback,U-Lock,Yes,150
+11,September,theft bicycle,Unknown,Unknown,DELAGUERRA,Freespirit,U-Lock,Yes,150
+11,September,theft bicycle,Unknown,Unknown,ANACAPA,Omega,U-Lock,Yes,150
+11,July,theft bicycle,Unknown,Unknown,SANTA YNEZ,Diamondback,U-Lock,No,160
+11,March,theft bicycle,Unknown,Unknown,KERR HALL,Simple,U-Lock,Yes,160
+11,February,theft bicycle,Unknown,Unknown,BUS LOOP,Mongoose,Cable Lock,No,165
+11,August,theft bicycle,Unknown,Unknown,DELAGUERRA,Peugot,Chain Lock,No,165
+11,June,theft bicycle,Unknown,Unknown,AS BIKE SHOP,Fuji,Not listed,No,170
+11,September,theft bicycle,Unknown,Unknown,SAN RAFAEL,Unknown,U-Lock,Yes,170
+11,July,theft bicycle,Unknown,Unknown,SANTA CATALINA,Unknown,U-Lock,Yes,170
+11,April,theft bicycle,Unknown,Unknown,BUS LOOP,Firmstrong,U-Lock,No,174
+11,April,theft bicycle,Unknown,Unknown,SANTA ROSA,Giant,U-Lock,Yes,175
+11,April,theft bicycle,Unknown,Unknown,SANTA CATALINA,Schwinn,U-Lock,No,180
+11,January,theft bicycle,Unknown,Unknown,SAN MIGUEL,Urban,U-Lock,Yes,180
+11,August,theft bicycle,Unknown,Unknown,SAN NICOLAS,Firmstrong,U-Lock,Yes,189
+11,November,theft bicycle,Unknown,Unknown,SANTA YNEZ APT. RACKS,Micargi,Cable Lock,No,190
+11,October,theft bicycle,Unknown,Unknown,UCEN,Unknown,Cable Lock,No,190
+11,February,theft bicycle,Unknown,Unknown,BUS LOOP,Sun,U-Lock,Yes,190
+11,May,theft bicycle,Unknown,Unknown,SANTA CATALINA,Firmstrong,U-Lock,No,195
+11,September,theft bicycle,Unknown,Unknown,SANTA CATALINA,Dawes,Cable Lock,Yes,195
+11,July,theft bicycle,Unknown,Unknown,SAN CLEMENTE,Centurian,Not listed,No,200
+11,October,theft bicycle,Unknown,Unknown,SAN CLEMENTE,Schwinn,U-Lock,No,200
+11,March,theft bicycle,Unknown,Unknown,SAN RAFAEL,Trek,Not Locked,Yes,200
+11,March,theft bicycle,Unknown,Unknown,ARTS BLDG,Schwinn,Not listed,No,210
+11,April,theft bicycle,Unknown,Unknown,SAN NICOLAS,Fuji,Cable Lock,Yes,212
+11,June,theft bicycle,Unknown,Unknown,SANTA CATALINA,Electra,Cable Lock,Yes,215
+11,May,theft bicycle,Unknown,Unknown,SANTA CATALINA,Peugeot,U-Lock,Yes,220
+11,October,theft bicycle,Unknown,Unknown,SANTA CATALINA,Giant,U-Lock,Yes,225
+11,February,theft bicycle,Unknown,Unknown,DELAGUERRA,Phat,U-Lock,Yes,225
+11,October,theft bicycle,Unknown,Unknown,CAMPBELL,Raleigh,U-Lock,No,230
+11,September,theft bicycle,Unknown,Unknown,SAN MIGUEL,Unknown,Cable Lock,No,240
+11,May,theft bicycle,Unknown,Unknown,BREN,Allez,U-Lock,No,250
+11,October,theft bicycle,Unknown,Unknown,EVENTSCENTER,Draft,U-Lock,No,250
+11,October,theft bicycle,Unknown,Unknown,SAN CLEMENTE,Phat,Cable Lock,Yes,250
+11,June,theft bicycle,Unknown,Unknown,SAN RAFAEL,Fuji,U-Lock,No,265
+11,April,theft bicycle,Unknown,Unknown,GAVIOTA HOUSE,630,Cable Lock,No,270
+11,May,theft bicycle,Unknown,Unknown,SANTA CATALINA,Fuji,U-Lock,No,270
+11,July,theft bicycle,Unknown,Unknown,MANZANITA VILLAGE,Ice Cream,U-Lock,No,270
+11,June,theft bicycle,Unknown,Unknown,BUS LOOP,Unknown,U-Lock,No,275
+11,November,theft bicycle,Unknown,Unknown,SANTA YNEZ APT.S,Winsor,U-Lock,No,275
+11,June,theft bicycle,Unknown,Unknown,"SAN CLEMENTE, ENCINO VILLAGE",Trek,Cable Lock,Yes,275
+11,July,theft bicycle,Unknown,Unknown,SANTA CATALINA,Seawind,U-Lock,No,280
+11,November,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Electra,U-Lock,Yes,280
+11,September,theft bicycle,Unknown,Unknown,DAVIDSON LIBRARY,American Flyer,U-Lock,No,288
+11,October,theft bicycle,Unknown,Unknown,ARROWHEAD VILLAGE,Bridgestone,Cable Lock,No,300
+11,October,theft bicycle,Unknown,Unknown,ANACAPA,Micargi,Cable Lock,No,300
+11,April,theft bicycle,Unknown,Unknown,STORKEHOUSING,Raleigh,Cable Lock,No,300
+11,October,theft bicycle,Unknown,Unknown,CAMPBELL,Trek,Combo,No,300
+11,June,theft bicycle,Unknown,Unknown,SAN MIGUEL,Draft,U-Lock,No,300
+11,October,theft bicycle,Unknown,Unknown,CARRILLO COMMONS,Tommaso,U-Lock,No,300
+11,October,theft bicycle,Unknown,Unknown,SAN CLEMENTE,Electra,Cable Lock,No,310
+11,June,theft bicycle,Unknown,Unknown,DONNER VILLAGE,Gary Fisher,Cable Lock,No,310
+11,May,theft bicycle,Unknown,Unknown,CASTIAC VILLAGE,Schwinn,Cable Lock,No,310
+11,October,theft bicycle,Unknown,Unknown,SANTA CATALINA,Firmstrong,U-Lock,Yes,310
+11,April,theft bicycle,Unknown,Unknown,SANTA CATALINA,Phat,Chain Lock,Yes,315
+11,October,theft bicycle,Unknown,Unknown,SANTA ROSA,Iron Horse,Cable Lock,Yes,320
+11,November,theft bicycle,Unknown,Unknown,PSB SOUTH,Trek,Cable Lock,Yes,325
+11,October,theft bicycle,Unknown,Unknown,DONNER,Kona,Cable Lock,No,330
+11,October,theft bicycle,Unknown,Unknown,SAN RAFAEL,Scattante,Cable Lock,Yes,335
+11,September,theft bicycle,Unknown,Unknown,ORTEGA COMMONS,Retro,U-Lock,Yes,340
+11,October,theft bicycle,Unknown,Unknown,SANTA CATALINA,630,U-Lock,Yes,365
+11,January,theft bicycle,Unknown,Unknown,SANTA CRUZ,Unknown,U-Lock,No,370
+11,October,theft bicycle,Unknown,Unknown,SAN MIGUEL,Specialized,U-Lock,Yes,400
+11,June,theft bicycle,Unknown,Unknown,SAN NIC,Specialized,U-Lock,Yes,400
+11,November,theft bicycle,Unknown,1600-2400,THEATRE & DANCE,Specialized,Cable Lock,No,415
+11,October,theft bicycle,Unknown,Unknown,SAN NICOLAS,Fuji,U-Lock,Yes,420
+11,September,theft bicycle,Unknown,Unknown,SANTA CATALINA,Fuji,U-Lock,Yes,420
+11,January,theft bicycle,Unknown,Unknown,SANTA CATALINA,Torker,U-Lock,Yes,420
+11,November,theft bicycle,Unknown,Unknown,BUS LOOP,SR,Cable Lock,No,425
+11,April,theft bicycle,Unknown,Unknown,SAN MIGUEL,Phat,U-Lock,Yes,425
+11,May,theft bicycle,Unknown,Unknown,WOODHOUSE LAB,KHS,U-Lock,No,430
+11,September,theft bicycle,Unknown,Unknown,ORTEGA COMMONS,Access,Cable Lock,Yes,430
+11,October,theft bicycle,Unknown,Unknown,SAN MIGUEL,State,Other,No,440
+11,March,theft bicycle,Unknown,Unknown,SANTA CATALINA,BMX,U-Lock,Yes,510
+11,November,theft bicycle,Unknown,Unknown,SAN NICOLAS,Unknown,U-Lock,Yes,525
+11,September,theft bicycle,Unknown,Unknown,SANTA YNEZ APT. #427,Trek,Cable Lock,No,535
+11,October,theft bicycle,Unknown,Unknown,SANTA ROSA,Trek,Cable Lock,Yes,565
+11,June,theft bicycle,Unknown,Unknown,ENGII,Marin,U-Lock,No,600
+11,September,theft bicycle,Unknown,Unknown,SANTA CATALINA,Trek,Cable Lock,No,610
+11,November,theft bicycle,Unknown,Unknown,CAMPBELL HALL,Trek,U-Lock,Yes,650
+11,April,theft bicycle,Unknown,Unknown,SSMS,Giant,Chain Lock,No,770
+11,April,theft bicycle,Unknown,Unknown,SAN MIGUEL,Motobecane,Cable Lock,No,920
+11,October,theft bicycle,Unknown,Unknown,SAN MIGUEL,Novara,U-Lock,Yes,945
+11,June,theft bicycle,Wednesday,1600-2400,UCEN,Unknown,Not Locked,No,50
+11,October,theft bicycle,Wednesday,0800-1600,UCPD,Diamondback,Not Locked,No,60
+11,February,theft bicycle,Wednesday,0800-1600,KERR HALL,Micargi,Not listed,Yes,100
+11,March,theft bicycle,Wednesday,0800-1600,RECCEN,3G,U-Lock,Yes,120
+11,October,theft bicycle,Wednesday,1600-2400,DELAGUERRA,VBS,U-Lock,Yes,150
+11,December,theft bicycle,Wednesday,Unknown,CAMPBELL HALL RACKS,Unknown,U-Lock,No,160
+11,June,theft bicycle,Wednesday,1600-2400,SSMS,Giant,Cable Lock,No,170
+11,August,theft bicycle,Wednesday,0800-1600,GIRVETZ,Unknown,U-Lock,No,175
+11,January,theft bicycle,Wednesday,0800-1600,RECCEN,Fuji,U-Lock,No,200
+11,July,theft bicycle,Wednesday,0800-1600,PHELPS,unknown,U-Lock,No,200
+11,March,theft bicycle,Wednesday,0800-1600,DAVIDSON LIBRARY,Fuji,U-Lock,Yes,215
+11,January,theft bicycle,Wednesday,1600-2400,KERR HALL,Continental,U-Lock,No,220
+11,March,theft bicycle,Wednesday,0800-1600,ENCINO VILLAGE,Specialized,Cable Lock,No,265
+11,June,theft bicycle,Wednesday,2400-0800,ANACAPA,Phat,U-Lock,No,270
+11,March,theft bicycle,Wednesday,0800-1600,INTERCOLLEGIATE ATHLETICS,Micargi,U-Lock,Yes,270
+11,December,theft bicycle,Wednesday,0800-1600,BUS LOOP,Niitaka,U-Lock,No,285
+11,November,theft bicycle,Wednesday,1600-2400,CAMPBELL HALL,Electra,Cable Lock,Yes,300
+11,October,theft bicycle,Wednesday,0800-1600,DAVIDSON LIBRARY,Sole,U-Lock,Yes,310
+11,February,theft bicycle,Wednesday,1600-2400,ENGII,Centurian,Cable Lock,No,315
+11,July,theft bicycle,Wednesday,0800-1600,CAMPBELL HALL,Urban,Cable Lock,No,325
+11,June,theft bicycle,Wednesday,2400-0800,LIBRARY,Retro,U-Lock,No,328
+11,May,theft bicycle,Wednesday,2400-0800,SAN RAFAEL,Fuji,U-Lock,No,410
+11,March,theft bicycle,Wednesday,0800-1600,PHELPS HALL,Fuji,U-Lock,No,420
+11,June,theft bicycle,Wednesday,0800-1600,MARINE SCIENCES BLDG,3G,Cable Lock,No,520
+11,March,theft bicycle,Wednesday,0800-1600,DAVIDSON LIBRARY,Giant,Combo,No,575
+11,June,theft bicycle,Wednesday,0800-1600,DE LA GUERRA,Specialized,Cable Lock,No,625
+11,June,theft bicycle,Wednesday,0800-1600,CHEMISTRY,Leader,Not Locked,No,1100
+12,April,theft bicycle,Friday,Unknown,SANTA CATALINA,Motiv,U-Lock,No,55
+12,January,theft bicycle,Friday,0800-1600,SAASB BIKE RACKS,Huffy,Combo,Yes,80
+12,January,theft bicycle,Friday,1600-2400,RECCEN RACKS,Schwinn,U-Lock,Yes,125
+12,October,theft bicycle,Friday,1600-2400,ENCINO,Flyer,U-Lock,Yes,139
+12,October,theft bicycle,Friday,0800-1600,KERR HALL,Hurley,U-Lock,No,225
+12,February,theft bicycle,Friday,1600-2400,DAVIDSON LIBRARY,Avalon,U-Lock,Yes,320
+12,October,theft bicycle,Friday,0800-1600,RECCEN RACKS,Corso,U-Lock,No,339
+12,August,theft bicycle,Friday,2400-0800,STORKEHOUSING,Vist,U-Lock,No,500
+12,February,theft bicycle,Monday,1600-2400,BROIDA HALL,Columbia,Cable Lock,No,55
+12,August,theft bicycle,Monday,0800-1600,"HSSB, ROOM #1236",Unknown,Not Locked,No,55
+12,June,theft bicycle,Monday,Unknown,SANTA ROSA RACKS,Firmstrong,U-Lock,Yes,70
+12,October,theft bicycle,Monday,1600-2400,GIRVETZ,3G,Not Locked,Yes,90
+12,January,theft bicycle,Monday,0800-1600,ARBOR RACKS,Schwinn,U-Lock,Yes,115
+12,June,theft bicycle,Monday,1600-2400,LOT 9,Hyper,Not listed,No,130
+12,May,theft bicycle,Monday,0800-1600,ANACAPA RACKS,Schwinn,Cable Lock,Yes,150
+12,April,theft bicycle,Monday,1600-2400,SOUTH HALL,Huffy,U-Lock,Yes,150
+12,July,theft bicycle,Monday,0800-1600,DAVIDSON LIBRARY,3G,U-Lock,No,162
+12,July,theft bicycle,Monday,0800-1600,KERR HALL,Urban,Not Locked,No,169
+12,August,theft bicycle,Monday,1600-2400,BUS LOOP,3G,U-Lock,No,179
+12,July,theft bicycle,Monday,1600-2400,KERR HALL,Urban,U-Lock,No,200
+12,October,theft bicycle,Monday,2400-0800,SANTA CATALINA RACKS,Fixie,Cable Lock,Yes,270
+12,August,theft bicycle,Monday,2400-0800,"SANTA YNEZ, O/S #302",Giant,Cable Lock,No,315
+12,March,theft bicycle,Monday,1600-2400,EVENTS CENTER,Specialized,U-Lock,Yes,530
+12,April,theft bicycle,Monday,0800-1600,BIOII,Giant,Combo,Yes,575
+12,August,theft bicycle,Monday,1600-2400,DAVIDSON LIBRARY,GT,Not Locked,No,1025
+12,August,theft bicycle,Saturday,1600-2400,BUS LOOP,Roadmaster,Not listed,Yes,180
+12,August,theft bicycle,Saturday,1600-2400,"SAN NIC, IFO",Varsity,U-Lock,No,220
+12,February,theft bicycle,Saturday,2400-0800,SANTA CATALINA,Micargi,Cable Lock,No,289
+12,June,theft bicycle,Saturday,1600-2400,DAVIDSON LIBRARY,Touring,U-Lock,Yes,300
+12,August,theft bicycle,Saturday,1600-2400,BUS LOOP,Pure Fix,Cable Lock,No,393
+12,March,theft bicycle,Saturday,Unknown,"SAN NIC, RACKS",Fuji,Not listed,Yes,500
+12,March,theft bicycle,Saturday,0800-1600,BROIDA,"Kilo,",U-Lock,No,730
+12,June,theft bicycle,Sunday,1600-2400,"SANTA CATALINA, RACKS",Mongoose,Not Locked,Yes,2
+12,June,theft bicycle,Sunday,1600-2400,CAMPBELL,Firmstrong,Not listed,Yes,81
+12,October,theft bicycle,Sunday,0800-1600,"CAMPBELL HALL, RACKS",Unknown,Cable Lock,No,85
+12,February,theft bicycle,Sunday,1600-2400,BUS LOOP RACK,Cuttler,U-Lock,No,300
+12,January,theft bicycle,Sunday,2400-0800,SANTA ROSA RACKS,Fuji,U-Lock,Yes,300
+12,August,theft bicycle,Sunday,1600-2400,DAVIDSON LIBRARY,Retrospec,Cable Lock,Yes,315
+12,January,theft bicycle,Sunday,1600-2400,SANTA CRUZ RACKS,Specialized,Not listed,Yes,650
+12,October,theft bicycle,Thursday,0800-1600,CREATIVE STUDIES,Huffy,Cable Lock,Yes,50
+12,May,theft bicycle,Thursday,0800-1600,CAMPBELL HALL RACKS,Trek,U-Lock,No,85
+12,May,theft bicycle,Thursday,0800-1600,"HSSB, BIKE RACKS",Mongoose,Not listed,No,150
+12,June,theft bicycle,Thursday,Unknown,UCEN O/S,Phat,Not Locked,Yes,180
+12,June,theft bicycle,Thursday,0800-1600,"EL DORADO, RACKS",Urban,U-Lock,No,195
+12,November,theft bicycle,Thursday,0800-1600,BUCHANAN ROOM 1910,Centurion,Not Locked,No,200
+12,May,theft bicycle,Thursday,0800-1600,INTERCOLLEGIATEATHLETICS,Purefix,Not listed,No,250
+12,July,theft bicycle,Thursday,2400-0800,STORKEHOUSING,Specialized,Cable Lock,No,300
+12,May,theft bicycle,Tuesday,0800-1600,SAN RAFAEL BIKE RACK,GT,Not Locked,Yes,40
+12,September,theft bicycle,Tuesday,0800-1600,REC CEN RACKS,Next,U-Lock,No,50
+12,June,theft bicycle,Tuesday,2400-0800,"BUS LOOP, RACKS",Schwinn,U-Lock,Yes,50
+12,February,theft bicycle,Tuesday,0800-1600,ENGI,GT,U-Lock,No,95
+12,May,theft bicycle,Tuesday,0800-1600,UCEN RACK,Rip Curl,Not Locked,Yes,99
+12,May,theft bicycle,Tuesday,1600-2400,ARBOR,Pacific,Not Locked,Yes,100
+12,February,theft bicycle,Tuesday,1600-2400,BROIDA,Urban,Not Locked,No,140
+12,April,theft bicycle,Tuesday,0800-1600,PSB NORTH,Magna,U-Lock,Yes,150
+12,January,theft bicycle,Tuesday,0800-1600,SOUTH HALL BIKE RACKS,Urban,U-Lock,Yes,160
+12,October,theft bicycle,Tuesday,0800-1600,BROIDA RACKS,Schwinn,Cable Lock,No,216
+12,October,theft bicycle,Tuesday,0800-1600,HSSB,Firmstrong,U-Lock,No,240
+12,June,theft bicycle,Tuesday,Unknown,SANTA YNEZ RACKS,Trek,Not Locked,Yes,295
+12,May,theft bicycle,Tuesday,1600-2400,ORTEGA COMMONS,Micargi,Cable Lock,No,325
+12,March,theft bicycle,Tuesday,Unknown,BROIDA,Kona,Not listed,Yes,400
+12,April,theft bicycle,Tuesday,0800-1600,HSSB,Trek,Not Locked,Yes,400
+12,March,theft bicycle,Tuesday,2400-0800,SAN CLEMENTE RACKS,Electra,Cable Lock,No,465
+12,November,theft bicycle,Tuesday,1600-2400,BUS LOOP,Rossetti,Not Locked,No,3200
+12,September,theft bicycle,Unknown,Unknown,SAN MIGUEL RACKS,Unknown,U-Lock,Yes,50
+12,February,theft bicycle,Unknown,Unknown,ENGII,Unknown,Chain Lock,No,60
+12,January,theft bicycle,Unknown,Unknown,SANTA CATALINA,Huffy,Cable Lock,Yes,65
+12,May,theft bicycle,Unknown,Unknown,KERR HALL,Unknown,Cable Lock,Yes,70
+12,February,theft bicycle,Unknown,Unknown,SRB,Sun,U-Lock,Yes,70
+12,December,theft bicycle,Unknown,Unknown,"TEPUSQUET, LA PATERA",3G,U-Lock,Yes,80
+12,March,theft bicycle,Unknown,Unknown,SAN RAFAEL NEXT TO RACKS,Tereton,U-Lock,Yes,80
+12,August,theft bicycle,Unknown,Unknown,SRB,Schwinn,U-Lock,No,87
+12,March,theft bicycle,Unknown,Unknown,SANTA ROSA RACKS,Schwinn,Cable Lock,Yes,90
+12,June,theft bicycle,Unknown,Unknown,ANACAPA RACKS,Schwinn,U-Lock,Yes,95
+12,April,theft bicycle,Unknown,Unknown,GAVIOTA HOUSE,KHS,Cable Lock,No,100
+12,March,theft bicycle,Unknown,Unknown,ENCINO VILLAGE,Sun,Cable Lock,No,100
+12,June,theft bicycle,Unknown,Unknown,ENGI,GT,Cable Lock,Yes,100
+12,February,theft bicycle,Unknown,Unknown,STORKEHOUSING,Diamondback,Not Locked,Yes,100
+12,January,theft bicycle,Unknown,Unknown,"SAN RAFAEL, LOBBY",Magna,U-Lock,Yes,100
+12,July,theft bicycle,Unknown,Unknown,SAN CLEMENTE RACKS,Firmstrong,U-Lock,Yes,105
+12,June,theft bicycle,Unknown,Unknown,ENGII,Pacific,Cable Lock,No,110
+12,April,theft bicycle,Unknown,Unknown,SSMS,Herby,U-Lock,No,115
+12,April,theft bicycle,Unknown,Unknown,SANTA CATALINA,Schwinn,Cable Lock,Yes,115
+12,November,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Schwinn,Cable Lock,Yes,115
+12,April,theft bicycle,Unknown,Unknown,UCEN,Schwinn,Cable Lock,Yes,115
+12,May,theft bicycle,Unknown,Unknown,FT RACKS,Specialized,Not Locked,No,120
+12,June,theft bicycle,Unknown,Unknown,KERR HALL RACKS,Schwinn,U-Lock,No,120
+12,September,theft bicycle,Unknown,Unknown,LOT 30,Schwinn,Cable Lock,Yes,120
+12,June,theft bicycle,Unknown,Unknown,ARTS,Lagoon 1,U-Lock,Yes,120
+12,February,theft bicycle,Unknown,Unknown,THEATRE & DANCE,La Jolla,Cable Lock,Yes,125
+12,May,theft bicycle,Unknown,Unknown,STORKE FAMILY HOUSING,Unknown,Cable Lock,No,130
+12,December,theft bicycle,Unknown,Unknown,DAVIDSON LIBRARY,Urban,Not Locked,No,130
+12,November,theft bicycle,Unknown,Unknown,TEPUSQUET RACKS,Thruster,U-Lock,Yes,130
+12,December,theft bicycle,Unknown,Unknown,"LOMA PALOMA, MANZANITA",KHS,Cable Lock,Yes,140
+12,August,theft bicycle,Unknown,Unknown,EVENTSCENTER,Diamondback,U-Lock,Yes,140
+12,April,theft bicycle,Unknown,Unknown,ANACAPA,Schwinn,Cable Lock,Yes,145
+12,April,theft bicycle,Unknown,Unknown,SAN CLEMENTE,Schwinn,U-Lock,No,150
+12,March,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Magana,Cable Lock,Yes,150
+12,March,theft bicycle,Unknown,Unknown,SANTA CRUZ RACKS,Motiv,Cable Lock,Yes,150
+12,November,theft bicycle,Unknown,Unknown,FT RACKS,Schwinn,Cable Lock,Yes,150
+12,November,theft bicycle,Unknown,Unknown,ASBIKESHOP,Dawes,U-Lock,Yes,150
+12,January,theft bicycle,Unknown,Unknown,SOUTH HALL,Firmstrong,Combo,Yes,160
+12,December,theft bicycle,Unknown,Unknown,SAN MIGUEL RACKS,Schwinn,U-Lock,No,165
+12,November,theft bicycle,Unknown,Unknown,MUSIC RACKS,Micargi,U-Lock,No,167
+12,April,theft bicycle,Unknown,Unknown,MANZANITA RACKS,Schwinn,Not Locked,No,170
+12,March,theft bicycle,Unknown,Unknown,SANTA CATALINA,Firmstrong,Cable Lock,Yes,170
+12,March,theft bicycle,Unknown,Unknown,SAN MIGUEL RACKS,Shwick,Cable Lock,Yes,170
+12,June,theft bicycle,Unknown,Unknown,"MUSIC, RACKS",Electra,U-Lock,Yes,170
+12,January,theft bicycle,Unknown,Unknown,SANTA CATALINA,Macho,U-Lock,Yes,170
+12,August,theft bicycle,Unknown,Unknown,"SAN NIC, RACKS",Schwinn,Cable Lock,Yes,180
+12,March,theft bicycle,Unknown,Unknown,NORTH HALL,Body Glove,U-Lock,Yes,187
+12,May,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Schwinn,Cable Lock,No,190
+12,January,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Phat,U-Lock,Yes,190
+12,April,theft bicycle,Unknown,Unknown,SAN NIC,Vanilla,Not Locked,Yes,195
+12,January,theft bicycle,Unknown,Unknown,SANTA CATALINA,Huffy,Cable Lock,Yes,200
+12,April,theft bicycle,Unknown,Unknown,SANTA CRUZ,Phat,Cable Lock,Yes,200
+12,May,theft bicycle,Unknown,Unknown,FT RACKS,SE,Cable Lock,Yes,200
+12,May,theft bicycle,Unknown,Unknown,"SAN CLEMENTE, RACKS IFO",Schwinn,U-Lock,Yes,200
+12,May,theft bicycle,Unknown,Unknown,SANTA CRUZ,Electra,U-Lock,Yes,205
+12,December,theft bicycle,Unknown,Unknown,SAN RAFAEL RACKS,Pakara,U-Lock,No,209
+12,May,theft bicycle,Unknown,Unknown,"DAVIDSON LIBRARY, RACKS",3G,U-Lock,No,210
+12,December,theft bicycle,Unknown,Unknown,FT,unknown,U-Lock,No,220
+12,February,theft bicycle,Unknown,Unknown,BUS LOOP,Schwinn,Cable Lock,Yes,220
+12,July,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Specialized,Cable Lock,Yes,220
+12,May,theft bicycle,Unknown,Unknown,"SANTA CATALINA, RACKS",Firmstrong,U-Lock,Yes,220
+12,October,theft bicycle,Unknown,Unknown,DELAGUERRA RACKS,Mongoose,U-Lock,Yes,220
+12,June,theft bicycle,Unknown,Unknown,SANTA YNEZ RACKS,Specialized,U-Lock,Yes,220
+12,May,theft bicycle,Unknown,Unknown,"CIENEGA, LAS ENCINAS",Trek,U-Lock,No,230
+12,January,theft bicycle,Unknown,Unknown,SAN MIGUEL RACKS,Unknown,U-Lock,No,230
+12,August,theft bicycle,Unknown,Unknown,"SAN NIC, RACKS",Trek,Cable Lock,Yes,230
+12,May,theft bicycle,Unknown,Unknown,GIRVETZ,Torker,U-Lock,Yes,230
+12,December,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Firmstrong,Cable Lock,Yes,235
+12,October,theft bicycle,Unknown,Unknown,"SAN CLEMENTE, RACKS",Trek,Cable Lock,No,240
+12,August,theft bicycle,Unknown,Unknown,HSSB,Dawes,U-Lock,No,250
+12,May,theft bicycle,Unknown,Unknown,SANTA CATALINA,Fuji,Cable Lock,Yes,250
+12,October,theft bicycle,Unknown,Unknown,SANTA CRUZ RACKS,Kromica,Cable Lock,Yes,250
+12,January,theft bicycle,Unknown,Unknown,SANTA ROSA RACKS,Shimano,Cable Lock,Yes,250
+12,January,theft bicycle,Unknown,Unknown,DELAGUERRA RACKS,Univega,Cable Lock,Yes,250
+12,June,theft bicycle,Unknown,Unknown,"KERR HALL, RACK",Trek,Not listed,Yes,250
+12,June,theft bicycle,Unknown,Unknown,SAN MIGUEL RACKS,Giant,Not listed,No,255
+12,August,theft bicycle,Unknown,Unknown,SAN RAFAEL RACKS,Firmstrong,Cable Lock,No,259
+12,March,theft bicycle,Unknown,Unknown,SANTA CRUZ,Retrospect,Cable Lock,Yes,265
+12,June,theft bicycle,Unknown,Unknown,MUSIC RACKS,Fixie,U-Lock,Yes,265
+12,October,theft bicycle,Unknown,Unknown,SANTA ROSA RACKS,Unknown,Cable Lock,Yes,268
+12,February,theft bicycle,Unknown,Unknown,SOUTH HALL BIKE RACKS,Nashbar,U-Lock,No,270
+12,February,theft bicycle,Unknown,Unknown,SAN MIGUEL,Micargi,U-Lock,Yes,270
+12,December,theft bicycle,Unknown,Unknown,BUS LOOP,Retrospec,Cable Lock,No,275
+12,September,theft bicycle,Unknown,Unknown,SANTA YNEZ RACKS,Micargi,Cable Lock,No,280
+12,February,theft bicycle,Unknown,Unknown,HSSB,Univega,U-Lock,Yes,295
+12,August,theft bicycle,Unknown,Unknown,THEATRE & DANCE,Diamondback,Combo,No,299
+12,March,theft bicycle,Unknown,Unknown,ANACAPA,Vilano,Cable Lock,No,300
+12,May,theft bicycle,Unknown,Unknown,STORKE FAMILY HOUSING O/S,KHS,U-Lock,No,300
+12,June,theft bicycle,Unknown,Unknown,"GIRVETZ, RACKS",Novara,Not listed,Yes,300
+12,May,theft bicycle,Unknown,Unknown,HSSB RACKS,Trek,Not listed,Yes,300
+12,March,theft bicycle,Unknown,Unknown,SAN MIGUEL RACKS,3G,Not Locked,Yes,300
+12,February,theft bicycle,Unknown,Unknown,SAN RAFAEL RACKS,Unknown,U-Lock,Yes,300
+12,June,theft bicycle,Unknown,Unknown,MANZANITA VILLAGE RACKS,Micargi,U-Lock,Yes,311
+12,January,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Schwinn,Cable Lock,No,315
+12,November,theft bicycle,Unknown,Unknown,SANTA CATALINA BIKE RACKS,Schwinn,Cable Lock,Yes,315
+12,May,theft bicycle,Unknown,Unknown,"CAMPBELL HALL, RACKS",Purefix,Cable Lock,No,320
+12,January,theft bicycle,Unknown,Unknown,SAN RAFAEL,Univega,Cable Lock,No,320
+12,October,theft bicycle,Unknown,Unknown,FT RACKS,Unknown,Cable Lock,No,320
+12,October,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Gravity,U-Lock,Yes,325
+12,November,theft bicycle,Unknown,Unknown,SANTA ROSA RACKS,Purefix,U-Lock,Yes,330
+12,April,theft bicycle,Unknown,Unknown,SANTA CATALINA,Specialized,Cable Lock,Yes,350
+12,October,theft bicycle,Unknown,Unknown,ANACAPA RACKS,Unknown,Cable Lock,No,359
+12,October,theft bicycle,Unknown,Unknown,DAVIDSON LIBRARY,Fuji,U-Lock,No,360
+12,October,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Firmstrong,Cable Lock,Yes,365
+12,May,theft bicycle,Unknown,Unknown,"SANTA CATALINA, BIKE RACK",Schwinn,Not listed,No,391
+12,November,theft bicycle,Unknown,Unknown,LOT 38 RACKS,Electra,Cable Lock,No,400
+12,July,theft bicycle,Unknown,Unknown,"DAVIDSON LIBRARY, RACKS",Cannondale,Not listed,No,400
+12,July,theft bicycle,Unknown,Unknown,COUNSELINGCAREER,Trek,Not listed,Yes,400
+12,May,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Mirraco,U-Lock,Yes,400
+12,January,theft bicycle,Unknown,Unknown,ROB GYM,Peugeot,Cable Lock,No,420
+12,June,theft bicycle,Unknown,Unknown,SANTA CRUZ RACKS,Peugeot,Cable Lock,Yes,420
+12,March,theft bicycle,Unknown,Unknown,SRB,Electra,U-Lock,Yes,420
+12,August,theft bicycle,Unknown,Unknown,"SAN RAFAEL, RACKS",Specialized,Combo,No,440
+12,June,theft bicycle,Unknown,Unknown,"ARTS, RACKS",Giant,U-Lock,Yes,440
+12,May,theft bicycle,Unknown,Unknown,STORKE FAMILY HSING PATIO,Nishiki,Not Locked,Yes,450
+12,November,theft bicycle,Unknown,Unknown,BRADBURY VILLAGE RACKS,DiamondBack,Cable Lock,No,456
+12,September,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Unknown,Chain Lock,Yes,475
+12,April,theft bicycle,Unknown,Unknown,"FIGUEROA, LOS ROBLES QUAD, MANZANITA RACKS",Cadillac,Cable Lock,Yes,520
+12,April,theft bicycle,Unknown,Unknown,SANTA CATALINA,Raleigh,U-Lock,Yes,530
+12,October,theft bicycle,Unknown,Unknown,SAN MIGUEL RACKS,Townie,U-Lock,Yes,550
+12,October,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Scott,Not listed,Yes,600
+12,October,theft bicycle,Unknown,Unknown,SAN NIC RACKS,Giant,U-Lock,Yes,610
+12,April,theft bicycle,Unknown,Unknown,SANTA CATALINA,Giant,Combo,No,615
+12,March,theft bicycle,Unknown,Unknown,STORKE FAMILY HOUSING,SE,U-Lock,No,750
+12,June,theft bicycle,Unknown,Unknown,"SAN MIGUEL, RACKS",Specialized,U-Lock,No,775
+12,November,theft bicycle,Unknown,Unknown,SANTA CRUZ RACKS,Marin,U-Lock,Yes,780
+12,March,theft bicycle,Unknown,Unknown,MANZANITA VILLAGE RACKS,Strida Novara,Cable Lock,Yes,830
+12,August,theft bicycle,Unknown,Unknown,SAN RAFAEL RACK,Trek,Cable Lock,No,925
+12,January,theft bicycle,Unknown,Unknown,SAN CLEMENTE RACKS,Kona,Cable Lock,No,2050
+12,March,theft bicycle,Unknown,Unknown,MANZANITA VILLAGE BIKE RACKS,Giant,Cable Lock,No,2436
+12,March,theft bicycle,Wednesday,0800-1600,ENGII,Unknown,Cable Lock,No,15
+12,May,theft bicycle,Wednesday,0800-1600,DELAGUERRA RACKS,Electra,Not listed,No,50
+12,February,theft bicycle,Wednesday,0800-1600,STUDENT HEALTH,Diamondback,Not Locked,No,80
+12,February,theft bicycle,Wednesday,0800-1600,MUSIC,Nirve,Not Locked,No,150
+12,October,theft bicycle,Wednesday,1600-2400,"CAMPBELL HALL, RACKS",Unknown,Not Locked,No,150
+12,May,theft bicycle,Wednesday,1600-2400,RECCEN,Kabuke,Not listed,No,200
+12,May,theft bicycle,Wednesday,2400-0800,SAN CLEMENTE OUTSIDE #2113,Schwinn,Not Locked,No,217
+12,February,theft bicycle,Wednesday,1600-2400,ECEN,Zilano,Cable Lock,Yes,220
+12,May,theft bicycle,Wednesday,0800-1600,"STORKE FAMILY HOUSING, O/S #765 BIRCH",Urban,Not listed,No,250
+12,October,theft bicycle,Wednesday,1600-2400,SANTA CATALINA RACKS,K2,Cable Lock,Yes,320
+12,November,theft bicycle,Wednesday,Unknown,SANTA CATALINA BIKE RACKS,Haro,Cable Lock,Yes,420
+12,August,theft bicycle,Wednesday,1600-2400,MUSIC,Trek,Cable Lock,No,920
+12,June,theft bicycle,Wednesday,2400-0800,SANTA YNEZ APT. RACKS,Windsor,U-Lock,Yes,1152
+13,December,theft bicycle,Friday,1600-2400,MUSIC RACKS,Unknown,U-Lock,Yes,220
+13,May,theft bicycle,Friday,0800-1600,STUDENT HEALTH RACKS,Schwinn,Cable Lock,No,230
+13,June,theft bicycle,Friday,1600-2400,STORKEFIELD,Specialized,Cable Lock,No,230
+13,June,theft bicycle,Monday,1600-2400,GIRVETZ,Diamondback,Not listed,No,100
+13,June,theft bicycle,Monday,0800-1600,CHEMISTRY RACKS,Raleigh,U-Lock,Yes,120
+13,April,theft bicycle,Monday,0800-1600,CAMPBELL HALL RACKS,Kabuto,Not Locked,No,140
+13,January,theft bicycle,Monday,1600-2400,SANTA CATALINA,Thruster,Other,Yes,165
+13,May,theft bicycle,Monday,0800-1600,LIBRARY RACKS,Huffy,Not Locked,No,200
+13,March,theft bicycle,Monday,1600-2400,RECCEN,Thruster,U-Lock,No,205
+13,July,theft bicycle,Monday,1600-2400,DAVIDSON LIBRARY,Firmstrong,Not listed,No,237
+13,January,theft bicycle,Monday,1600-2400,ARBOR,Micargi,Not listed,No,300
+13,June,theft bicycle,Monday,2400-0800,LIBRARY,Fuji,U-Lock,Yes,365
+13,April,theft bicycle,Monday,0800-1600,SYA RACKS,Trek,U-Lock,No,400
+13,October,theft bicycle,Saturday,1600-2400,ECEN RACKS,Specialized,Not Locked,No,100
+13,January,theft bicycle,Saturday,0800-1600,BROIDA,Retrospec,Cable Lock,No,390
+13,July,theft bicycle,Saturday,1600-2400,IFO WEST CAMPUS FAMILY HOUSING,Cilo,Not Locked,No,1000
+13,January,theft bicycle,Saturday,1600-2400,ORTEGA RACKS,Trek,U-Lock,No,1018
+13,April,theft bicycle,Saturday,0800-1600,WEBB HALL RACKS,Raleigh,U-Lock,No,1230
+13,April,theft bicycle,Saturday,0800-1600,LOT 15,Trek,Cable Lock,No,1500
+13,February,theft bicycle,Sunday,0800-1600,RECCEN RACKS,Firmstrong,Not Locked,Yes,200
+13,July,theft bicycle,Sunday,1600-2400,DLG RACKS,Micargi,Cable Lock,No,330
+13,December,theft bicycle,Thursday,0800-1600,SAASB RACKS,Shasta,Not Locked,No,50
+13,April,theft bicycle,Thursday,0800-1600,BROIDA RACKS,Denali,Cable Lock,No,85
+13,June,theft bicycle,Thursday,0800-1600,LOMA PALOMA RACKS,Nirve,U-Lock,Yes,120
+13,October,theft bicycle,Thursday,0800-1600,CAMPBELL HALL,Thruster,U-Lock,Yes,120
+13,March,theft bicycle,Thursday,0800-1600,RECCEN RACKS,KHS,Not listed,No,165
+13,May,theft bicycle,Thursday,1600-2400,BUS LOOP RACK,NEXT,Cable Lock,Yes,166
+13,May,theft bicycle,Thursday,1600-2400,PSYCHOLOGY RACKS,Giant,Cable Lock,Yes,225
+13,September,theft bicycle,Thursday,1600-2400,LIBRARY RACKS,SE,U-Lock,No,320
+13,April,theft bicycle,Thursday,0800-1600,UCEN RACKS,Urban,U-Lock,No,330
+13,May,theft bicycle,Thursday,0800-1600,SANTA ROSA RACKS,Electra,U-Lock,Yes,450
+13,January,theft bicycle,Thursday,1600-2400,ORTEGA DINING COMMONS RACKS,Trek,U-Lock,No,1018
+13,April,theft bicycle,Tuesday,0800-1600,CAMPBELL HALL RACKS,Magna,Not Locked,Yes,40
+13,October,theft bicycle,Tuesday,0800-1600,FT RACKS,Pacific,Cable Lock,Yes,110
+13,May,theft bicycle,Tuesday,0800-1600,MANZANITA RACKS,Ireland,U-Lock,Yes,110
+13,November,theft bicycle,Tuesday,0800-1600,LOT 30 RACKS,Unknown,Cable Lock,No,112
+13,February,theft bicycle,Tuesday,0800-1600,CAMPBELL HALL RACKS,Schwinn,U-Lock,No,120
+13,June,theft bicycle,Tuesday,1600-2400,LIBRARY,Fuji,Cable Lock,Yes,130
+13,November,theft bicycle,Tuesday,0800-1600,CHEMISTRY RACKS,Thruster,Combo,No,135
+13,May,theft bicycle,Tuesday,0800-1600,SAN NIC RACKS,Anza,U-Lock,Yes,170
+13,March,theft bicycle,Tuesday,0800-1600,PHELPS RACKS,Unknown,U-Lock,No,190
+13,August,theft bicycle,Tuesday,1600-2400,RECCEN,Takara,U-Lock,No,200
+13,July,theft bicycle,Tuesday,1600-2400,BROIDA RACKS,Unknown,U-Lock,No,200
+13,November,theft bicycle,Tuesday,0800-1600,CHEMISTRY RACKS,Northstar,Cable Lock,No,220
+13,October,theft bicycle,Tuesday,1600-2400,"PSB NORTH, RACKS",Firmstrong,U-Lock,Yes,250
+13,September,theft bicycle,Tuesday,0800-1600,STORKE FAMILY HSNG,Trek,U-Lock,No,295
+13,October,theft bicycle,Tuesday,2400-0800,STORKE FAMILY HOUSING,Trek,Cable Lock,No,370
+13,December,theft bicycle,Tuesday,1600-2400,CAMPBELL HALL RACKS,Raleigh,Cable Lock,No,460
+13,May,theft bicycle,Tuesday,0800-1600,KERR HALL RACKS,Cannondale,Cable Lock,No,620
+13,September,theft bicycle,Tuesday,Unknown,THEATRE & DANCE RACKS,Bianchi,Combo,No,820
+13,July,theft bicycle,Tuesday,0800-1600,LIBRARY,Giant,Cable Lock,No,1030
+13,August,theft bicycle,Unknown,Unknown,STORKE FAMILY HSNG RACKS,Mongoose,Not Locked,Yes,60
+13,May,theft bicycle,Unknown,Unknown,BIO RACKS,3G,Not Locked,No,80
+13,June,theft bicycle,Unknown,Unknown,SAASB RACKS,American Flyer,Cable Lock,Yes,90
+13,September,theft bicycle,Unknown,Unknown,ANACAPA RACKS,Unknown,Cable Lock,Yes,90
+13,April,theft bicycle,Unknown,Unknown,MCC RACKS,Huffy,U-Lock,Yes,90
+13,July,theft bicycle,Unknown,Unknown,HSSB RACKS,Nashbar,Cable Lock,No,92
+13,May,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Unknown,U-Lock,No,95
+13,May,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Huffy,Not Locked,Yes,95
+13,December,theft bicycle,Unknown,Unknown,BRADBURY VILLAGE RACKS,Unknown,Not listed,No,100
+13,October,theft bicycle,Unknown,Unknown,CARRILLO COMMONS RACK,Specialized,Other,No,100
+13,June,theft bicycle,Unknown,Unknown,BUS LOOP,Huffy,Cable Lock,Yes,100
+13,November,theft bicycle,Unknown,Unknown,THEATRE & DANCE RACKS,Trek,Not Locked,Yes,100
+13,February,theft bicycle,Unknown,Unknown,UCEN RACKS,Electra,Combo,Yes,105
+13,January,theft bicycle,Unknown,Unknown,SAN NIC,Huffy,U-Lock,Yes,115
+13,November,theft bicycle,Unknown,Unknown,SANTA YNEZ RACKS,Unknown,U-Lock,No,120
+13,August,theft bicycle,Unknown,Unknown,"STORKE FAMILY HOUSING, RACKS",Unknown,U-Lock,No,120
+13,October,theft bicycle,Unknown,Unknown,ANACAPA RACKS,Diamondback,Cable Lock,Yes,120
+13,June,theft bicycle,Unknown,Unknown,SAN RAFAEL RACKS,Trek,Cable Lock,Yes,120
+13,April,theft bicycle,Unknown,Unknown,HSSB RACKS,Firmstrong,U-Lock,Yes,120
+13,August,theft bicycle,Unknown,Unknown,ARTS RACKS,Takara,U-Lock,Yes,120
+13,April,theft bicycle,Unknown,Unknown,ECEN,Raleigh,Cable Lock,Yes,125
+13,November,theft bicycle,Unknown,Unknown,SANTA CRUZ RACKS,Schwinn,Cable Lock,Yes,125
+13,January,theft bicycle,Unknown,Unknown,SOUTH HALL,Unknown,U-Lock,Yes,125
+13,June,theft bicycle,Unknown,Unknown,RECCEN RACKS,Huffy,U-Lock,Yes,130
+13,April,theft bicycle,Unknown,Unknown,SYA RACKS,Mongoose,Not Locked,No,150
+13,February,theft bicycle,Unknown,Unknown,BUS LOOP,Huffy,Cable Lock,Yes,150
+13,September,theft bicycle,Unknown,Unknown,STORKE FAMILY HSNG,Schwinn,U-Lock,Yes,150
+13,February,theft bicycle,Unknown,Unknown,HSSB,Takara,U-Lock,No,165
+13,April,theft bicycle,Unknown,Unknown,FT RACKS,Trek,U-Lock,No,165
+13,November,theft bicycle,Unknown,Unknown,SAN CLEMENTE (ENCINO VILLAGE) RACKS,Diamondback,Cable Lock,Yes,165
+13,February,theft bicycle,Unknown,Unknown,SYA O/S 138,Schwinn,U-Lock,Yes,165
+13,October,theft bicycle,Unknown,Unknown,DELAGUERRA RACKS,Citizen,Cable Lock,Yes,170
+13,October,theft bicycle,Unknown,Unknown,RECCEN RACKS,Schwinn,Cable Lock,Yes,170
+13,October,theft bicycle,Unknown,Unknown,STORKEHOUSING,Yukon,Not listed,No,175
+13,July,theft bicycle,Unknown,Unknown,SAASB RACKS,Dahon,U-Lock,No,175
+13,December,theft bicycle,Unknown,Unknown,DAVIDSON LIBRARY RACKS,Thruster,U-Lock,Yes,175
+13,November,theft bicycle,Unknown,Unknown,SAN NICOLAS RACKS,Champion,Chain Lock,No,185
+13,February,theft bicycle,Unknown,Unknown,GGSE RACKS,Mongoose,Cable Lock,No,190
+13,November,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Schwinn,U-Lock,No,190
+13,May,theft bicycle,Unknown,Unknown,SAN MIGUEL RACKS,Specialized,Not listed,No,200
+13,May,theft bicycle,Unknown,Unknown,STORKHOUSING,Schwinn,U-Lock,No,200
+13,September,theft bicycle,Unknown,Unknown,EL DORADO RACKS,Corsa,Not listed,Yes,200
+13,October,theft bicycle,Unknown,Unknown,MANZANITA RACKS,Micargi,U-Lock,Yes,200
+13,June,theft bicycle,Unknown,Unknown,SYA RACKS,Origin 8,U-Lock,Yes,200
+13,June,theft bicycle,Unknown,Unknown,SAN MIGUEL RACKS,Schwinn,U-Lock,Yes,205
+13,November,theft bicycle,Unknown,Unknown,SAN CLEMENTE (CASTIAC) RACKS,Wave,Combo,No,210
+13,October,theft bicycle,Unknown,Unknown,WESTCAMPUS,Hyper,Cable Lock,No,214
+13,May,theft bicycle,Unknown,Unknown,EVENT CENTER RACKS,Spectrum,U-Lock,No,215
+13,January,theft bicycle,Unknown,Unknown,SAN CLEMENTE,Cuttler,U-Lock,Yes,218
+13,October,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Unknown,Cable Lock,No,220
+13,January,theft bicycle,Unknown,Unknown,ARROWHEAD VILLAGE RACKS,Takara,U-Lock,No,220
+13,January,theft bicycle,Unknown,Unknown,"MIRANDA, LAS ENCINAS BIKE RACKS",Pacific,Cable Lock,Yes,220
+13,June,theft bicycle,Unknown,Unknown,ANACAPA RACKS,Trek,Combo,Yes,220
+13,April,theft bicycle,Unknown,Unknown,SAN MIGUEL RACKS,Centurion,U-Lock,Yes,220
+13,April,theft bicycle,Unknown,Unknown,HSSB RACKS,Schwinn,Cable Lock,Yes,230
+13,August,theft bicycle,Unknown,Unknown,LIBRARY,Schwinn,Cable Lock,Yes,230
+13,April,theft bicycle,Unknown,Unknown,SANTA CRUZ RACK,Firmstrong,U-Lock,Yes,230
+13,June,theft bicycle,Unknown,Unknown,ANACAPA RACKS,Takara,U-Lock,Yes,240
+13,May,theft bicycle,Unknown,Unknown,SAN RAF RACKS,Schwinn,U-Lock,Yes,260
+13,April,theft bicycle,Unknown,Unknown,SANTA YNEX RACKS,Unknown,Cable Lock,No,265
+13,April,theft bicycle,Unknown,Unknown,SAN RAFAEL RACKS,Univega,U-Lock,No,265
+13,October,theft bicycle,Unknown,Unknown,O/S WESTGATE APTS.,Unknown,Cable Lock,No,275
+13,June,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Fixie,U-Lock,No,285
+13,July,theft bicycle,Unknown,Unknown,SRB,Schwinn,U-Lock,No,295
+13,July,theft bicycle,Unknown,Unknown,LIBRARY RACKS,Firmstrong,Not listed,No,300
+13,May,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,RetroSpec,Not listed,No,300
+13,February,theft bicycle,Unknown,Unknown,FT RACKS,Unknown,Other,No,300
+13,June,theft bicycle,Unknown,Unknown,CARRILLO COMMONS RACKS,Firmstrong,Not Locked,Yes,300
+13,January,theft bicycle,Unknown,Unknown,LA PATERA QUAD RACKS,Micargi,Other,No,320
+13,October,theft bicycle,Unknown,Unknown,SANTA CATALINA,Schwinn,Cable Lock,Yes,325
+13,October,theft bicycle,Unknown,Unknown,SANTA ROSA RACKS,Unknown,U-Lock,No,330
+13,December,theft bicycle,Unknown,Unknown,SAN MIGUEL RACKS,Trek,Cable Lock,No,350
+13,July,theft bicycle,Unknown,Unknown,LIBRARY,Virtue,U-Lock,No,350
+13,April,theft bicycle,Unknown,Unknown,SAN RAFAEL RACKS,Gary Fisher,U-Lock,Yes,370
+13,February,theft bicycle,Unknown,Unknown,FT RACKS,Haro,U-Lock,Yes,375
+13,February,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Haro,U-Lock,Yes,375
+13,November,theft bicycle,Unknown,Unknown,STORKE HOUSING RACKS,Masi,Cable Lock,No,390
+13,November,theft bicycle,Unknown,Unknown,BUS LOOP RACKS,Giant,Not listed,Yes,400
+13,June,theft bicycle,Unknown,Unknown,ANACAPA RACKS,Trek,Not listed,Yes,416
+13,May,theft bicycle,Unknown,Unknown,SAN RAF RACKS,Unknown,U-Lock,No,420
+13,September,theft bicycle,Unknown,Unknown,CAMPBELL HALL RACKS,Giant,U-Lock,No,430
+13,October,theft bicycle,Unknown,Unknown,SANTA YNEZ RACKS,GT,Combo,Yes,500
+13,November,theft bicycle,Unknown,Unknown,"ARGUELLA, LAS ENCINAS QUAD (MANZANITA) RACKS",Giant,Cable Lock,No,520
+13,June,theft bicycle,Unknown,Unknown,ARROWHEAD VILLAGE RACKS,Trek,Cable Lock,Yes,530
+13,January,theft bicycle,Unknown,Unknown,SANTA CATALINA,Trek,U-Lock,No,580
+13,January,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Fuji,Cable Lock,No,620
+13,March,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Scott,Cable Lock,No,670
+13,December,theft bicycle,Unknown,Unknown,STORKE FAMILY HOUSING RACKS,Electra,Cable Lock,No,715
+13,February,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Gary Fisher,Cable Lock,Yes,720
+13,February,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Gary Fisher,Cable Lock,Yes,720
+13,March,theft bicycle,Unknown,Unknown,"LA CUMBRE, LA PATERA QUAD RACKS",Scott,U-Lock,No,818
+13,April,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Trek,U-Lock,Yes,1015
+13,October,theft bicycle,Wednesday,1600-2400,LIBRARY RACKS,Gitane,U-Lock,No,170
+13,December,theft bicycle,Wednesday,1600-2400,BROIDA HALL RACKS,Retrospec,Not listed,Yes,200
+13,May,theft bicycle,Wednesday,1600-2400,ANACAPA RACKS,3G,Not Locked,Yes,200
+13,February,theft bicycle,Wednesday,2400-0800,LIBRARY RACKS,3GGG,U-Lock,No,210
+13,March,theft bicycle,Wednesday,1600-2400,RECCEN,Firmstrong,U-Lock,No,250
+13,June,theft bicycle,Wednesday,0800-1600,HSSB RACKS,Retrospect,U-Lock,No,250
+13,May,theft bicycle,Wednesday,1600-2400,ARBOR RACK,Micargi,Not listed,No,311
+13,September,theft bicycle,Wednesday,0800-1600,POLLOCK THEATRE RACKS,Klein,U-Lock,No,438
+13,September,theft bicycle,Wednesday,1600-2400,BIOII,Giant,Not listed,No,490
+13,May,theft bicycle,Wednesday,0800-1600,SAN RAFAEL RACKS,Unknown,Not Locked,No,500
+13,July,theft bicycle,Wednesday,0800-1600,LIBRARY,Trek,U-Lock,No,570
+13,February,theft bicycle,Wednesday,1600-2400,GIRVETZ RACKS,MTB,U-Lock,Yes,800
+14,March,theft bicycle,Friday,Unknown,ENGII,Urban,Cable Lock,No,100
+14,December,theft bicycle,Friday,2400-0800,SANTA CATALINA RACKS,Pacific,U-Lock,No,115
+14,May,theft bicycle,Friday,1600-2400,SANNIC RACKS,Freedom,U-Lock,Yes,120
+14,March,theft bicycle,Friday,0800-1600,CAMPBELL HALL RACKS,Electra,Not listed,Yes,200
+14,November,theft bicycle,Friday,0800-1600,MUSIC,Fuji,Not Locked,Yes,200
+14,January,theft bicycle,Friday,0800-1600,CAMPBELL RACKS,Unknown,U-Lock,Yes,220
+14,July,theft bicycle,Monday,0800-1600,CHEMISTRY RACKS,unknown,U-Lock,No,50
+14,December,theft bicycle,Monday,0800-1600,CHEMISTRY RACKS,Varsity,Not Locked,No,120
+14,July,theft bicycle,Monday,2400-0800,DONNER QUAD RACKS,Schwinn,Cable Lock,Yes,120
+14,December,theft bicycle,Monday,2400-0800,MSI BEACH,Sku,Not listed,No,140
+14,May,theft bicycle,Monday,0800-1600,IV THEATRE RACKS,Haro,Cable Lock,No,210
+14,June,theft bicycle,Monday,2400-0800,STORKE FAMILY HOUSING O/S RACK,Trek,Cable Lock,No,220
+14,June,theft bicycle,Monday,1600-2400,ARBOR,Freedom,U-Lock,No,284
+14,March,theft bicycle,Monday,2400-0800,ENCINO,Pacific,Chain Lock,Yes,400
+14,March,theft bicycle,Monday,0800-1600,STUDENT HEALTH RACKS,Etape,Not Locked,No,450
+14,August,theft bicycle,Monday,0800-1600,SYA RACKS,Giant,Not listed,Yes,450
+14,April,theft bicycle,Saturday,1600-2400,ENGII,Unknown,Cable Lock,No,73
+14,February,theft bicycle,Saturday,2400-0800,FT RACKS,Unknown,Not listed,Yes,150
+14,September,theft bicycle,Saturday,1600-2400,DEANZA,Unknown,Cable Lock,No,180
+14,July,theft bicycle,Saturday,Unknown,SYA RACK,Firmstrong,Cable Lock,No,295
+14,May,theft bicycle,Saturday,2400-0800,EVENTSCENTER,Electra,U-Lock,Yes,375
+14,February,theft bicycle,Saturday,2400-0800,LIBRARY,Merciar,Cable Lock,Yes,400
+14,February,theft bicycle,Saturday,1600-2400,NORTH HALL RACKS,Specialized,Cable Lock,No,810
+14,April,theft bicycle,Sunday,0800-1600,WEST CAMPUS FH RACKS,Unknown,Not Locked,No,50
+14,April,theft bicycle,Sunday,2400-0800,WESTCAMPUS,Fiji,Not Locked,No,140
+14,March,theft bicycle,Sunday,2400-0800,SYA RACKS,Unknown,Not Locked,No,180
+14,October,theft bicycle,Sunday,1600-2400,UCEN RACKS,Unknown,Not listed,No,200
+14,April,theft bicycle,Sunday,1600-2400,ARROWHEAD RACKS,Softride,Not Locked,No,250
+14,January,theft bicycle,Sunday,0800-1600,PHELPS,Specialized,Not Locked,No,275
+14,September,theft bicycle,Sunday,1600-2400,MUSIC,Trek,Cable Lock,No,555
+14,April,theft bicycle,Thursday,0800-1600,STORKE HOUSING (SEQUOIA) RACKS,Univega,Not Locked,No,50
+14,October,theft bicycle,Thursday,0800-1600,GIRVETZ,Nishiki,Not listed,No,190
+14,October,theft bicycle,Thursday,1600-2400,GIRVETZ,Schwinn,U-Lock,No,215
+14,October,theft bicycle,Thursday,0800-1600,CAMPBELL RACKS,Skykomish,U-Lock,Yes,220
+14,October,theft bicycle,Thursday,0800-1600,PSYCHOLOGY,Unknown,Not listed,No,270
+14,March,theft bicycle,Thursday,1600-2400,BROIDA RACKS,Saronni,U-Lock,No,330
+14,March,theft bicycle,Tuesday,2400-0800,CHEMISTRY RACKS,Unknown,Not Locked,No,100
+14,May,theft bicycle,Tuesday,1600-2400,HARDER STADIUM RACKS,Schwinn,U-Lock,Yes,163
+14,June,theft bicycle,Tuesday,0800-1600,ARTS,Fixie,U-Lock,No,170
+14,October,theft bicycle,Tuesday,0800-1600,CHEMISTRY,fixie,U-Lock,No,170
+14,November,theft bicycle,Tuesday,1600-2400,HSSB,Fixie,Not Locked,No,200
+14,June,theft bicycle,Tuesday,2400-0800,LA PATERA RACKS,Bianchi,Not listed,Yes,275
+14,October,theft bicycle,Tuesday,2400-0800,SYA RACKS,Motobecane,Other,Yes,300
+14,July,theft bicycle,Tuesday,0800-1600,CHEMISTRY RACKS,Retrospective,U-Lock,Yes,300
+14,December,theft bicycle,Tuesday,1600-2400,HSSB RACKS,Navara,U-Lock,No,520
+14,October,theft bicycle,Tuesday,1600-2400,BROIDA RACKS,Cannondale,Cable Lock,Yes,530
+14,December,theft bicycle,Unknown,Unknown,ANACAPA RACKS,Mongoose,Cable Lock,No,20
+14,June,theft bicycle,Unknown,Unknown,ECEN RACKS,Schwinn,Not Locked,Yes,20
+14,June,theft bicycle,Unknown,Unknown,FT RACKS,Next,Combo,No,40
+14,January,theft bicycle,Unknown,Unknown,SANTA CATALINA RACKS,Schwinn,Not Locked,Yes,50
+14,April,theft bicycle,Unknown,Unknown,SANTA ROSA RACKS,Schwinn,U-Lock,No,60
+14,April,theft bicycle,Unknown,Unknown,ARTS RACKS,Unknown,Other,No,65
+14,June,theft bicycle,Unknown,Unknown,HSSB RACKS,Giant,Cable Lock,Yes,70
+14,June,theft bicycle,Unknown,Unknown,"STORKE HOUSING, BIRCH WALK RACKS",Mongoose,Cable Lock,No,90
+14,May,theft bicycle,Unknown,Unknown,EMBARCADERO HALL,Unknown,U-Lock,Yes,95
+14,May,theft bicycle,Unknown,Unknown,"STORKE FAMILY HOUSING, ACACIA WALK RACKS",Next,Not listed,No,100
+14,November,theft bicycle,Unknown,Unknown,SANTA CRUZ,Magna,Cable Lock,Yes,100
+14,August,theft bicycle,Unknown,Unknown,SYA RACKS,Ishiki,U-Lock,No,120
+14,December,theft bicycle,Unknown,Unknown,SAN MIGUEL RACKS,Canyon River,U-Lock,Yes,120
+14,May,theft bicycle,Unknown,Unknown,FT RACKS,Raleigh,U-Lock,Yes,120
+14,May,theft bicycle,Unknown,Unknown,BREN,Diamondback,Cable Lock,Yes,135
+14,July,theft bicycle,Unknown,Unknown,LIBRARY RACKS,Huffy,U-Lock,Yes,138
+14,March,theft bicycle,Unknown,Unknown,BUS LOOP RACKS,Schwinn,Cable Lock,No,140
+14,February,theft bicycle,Unknown,Unknown,SAN CAT RACKS,Huffy,Cable Lock,Yes,140
+14,May,theft bicycle,Unknown,Unknown,SYA RACKS,Huffy,Combo,Yes,140
+14,November,theft bicycle,Unknown,Unknown,SAN MIGURL RACKS,American Flyer,U-Lock,Yes,140
+14,February,theft bicycle,Unknown,Unknown,FT RACKS,Avalon,U-Lock,Yes,145
+14,November,theft bicycle,Unknown,Unknown,FT RACKS,Specialized,Cable Lock,No,150
+14,November,theft bicycle,Unknown,Unknown,SANTA ROSA RACKS,American Flyer,Cable Lock,Yes,150
+14,January,theft bicycle,Unknown,Unknown,ECEN RACKS,Upland,Cable Lock,Yes,150
+14,June,theft bicycle,Unknown,Unknown,SYA RACKS,Unknown,Combo,Yes,150
+14,December,theft bicycle,Unknown,Unknown,SANTA ROSA RACKS,Huffy,Not listed,Yes,150
+14,March,theft bicycle,Unknown,Unknown,SANTA CRUZ RACKS,Micargi,Not Locked,Yes,150
+14,May,theft bicycle,Unknown,Unknown,CARRILLO,3G,U-Lock,Yes,150
+14,December,theft bicycle,Unknown,Unknown,SANTA CRUZ,Retroepect,U-Lock,Yes,150
+14,May,theft bicycle,Unknown,Unknown,EMBARCADERO HALL RACKS,American Flyer,Cable Lock,No,155
+14,May,theft bicycle,Unknown,Unknown,STORKE FAMILY HOUSING RACKS,Vilano,Cable Lock,No,165
+14,March,theft bicycle,Unknown,Unknown,DONNER VILLAGE RACKS,Firmstrong,Cable Lock,No,170
+14,November,theft bicycle,Unknown,Unknown,SANTA ROSA RACKS,Skull & Bones,Cable Lock,No,170
+14,February,theft bicycle,Unknown,Unknown,WESTWIND RACKS,Thruster,Cable Lock,Yes,170
+14,March,theft bicycle,Unknown,Unknown,SANTA CRUZ RACKS,Trek,Cable Lock,No,180
+14,May,theft bicycle,Unknown,Unknown,ANACAPA RACKS,Thruster,Cable Lock,Yes,180
+14,July,theft bicycle,Unknown,Unknown,WCFH RACKS,Trek,Cable Lock,Yes,200
+14,November,theft bicycle,Unknown,Unknown,"SAN CLEMENTE, BRADBURY, SAN CLEMENTE - RACKS",Thrust,Cable Lock,No,205
+14,July,theft bicycle,Unknown,Unknown,STORKEHOUSING,Schwinn,U-Lock,No,210
+14,October,theft bicycle,Unknown,Unknown,DONNER RACKS,Fuji,Cable Lock,Yes,212
+14,February,theft bicycle,Unknown,Unknown,DONNER VILLAGE RACKS,Diamondback,Combo,Yes,215
+14,October,theft bicycle,Unknown,Unknown,SANTA ROSA RACKS,Marfic,U-Lock,Yes,215
+14,August,theft bicycle,Unknown,Unknown,SAN NIC RACKS,Diamondback,Cable Lock,Yes,220
+14,February,theft bicycle,Unknown,Unknown,WESTWINDS APT. RACKS,Electra,U-Lock,Yes,220
+14,May,theft bicycle,Unknown,Unknown,SYA RACKS,Firmstrong,Cable Lock,Yes,230
+14,April,theft bicycle,Unknown,Unknown,SAN RAF RACKS,Firmstrong,U-Lock,Yes,230
+14,January,theft bicycle,Unknown,Unknown,GAVIOTA HOUSE (LA PATERA) RACKS,Raleigh,U-Lock,Yes,230
+14,June,theft bicycle,Unknown,Unknown,RECCEN TRACK,Vilano,U-Lock,No,240
+14,December,theft bicycle,Unknown,Unknown,ORTEGA RACKS,Nishiki,U-Lock,No,250
+14,April,theft bicycle,Unknown,Unknown,STUDENT HEALTH,Firmstrong,Not listed,Yes,250
+14,January,theft bicycle,Unknown,Unknown,BUS LOOP,Trek,Not listed,Yes,250
+14,September,theft bicycle,Unknown,Unknown,SAN NIC RACKS,Trek,Not listed,Yes,250
+14,May,theft bicycle,Unknown,Unknown,FT RACKS,Trek,Not Locked,Yes,250
+14,May,theft bicycle,Unknown,Unknown,CAESERSTADIUM,Retrospect,Cable Lock,Yes,270
+14,April,theft bicycle,Unknown,Unknown,THEATRE & DANCE RACKS,Schwinn,Cable Lock,No,275
+14,June,theft bicycle,Unknown,Unknown,FT RACKS,Unknown,U-Lock,No,280
+14,June,theft bicycle,Unknown,Unknown,SAN MIGUEL RACKS,Electra,U-Lock,Yes,280
+14,October,theft bicycle,Unknown,Unknown,SYA IFO,Specialized,Not listed,No,300
+14,November,theft bicycle,Unknown,Unknown,SAN RAFAEL RACKS,Unknown,Cable Lock,No,320
+14,January,theft bicycle,Unknown,Unknown,SAN CLEMENTE RACKS,Unknown,U-Lock,No,320
+14,April,theft bicycle,Unknown,Unknown,FT RACKS,Trek,Cable Lock,Yes,320
+14,February,theft bicycle,Unknown,Unknown,ANACAPA RACKS,Pure Fix,Not Locked,No,325
+14,May,theft bicycle,Unknown,Unknown,BUS LOOP RACKS,Trek,Cable Lock,No,330
+14,January,theft bicycle,Unknown,Unknown,HSSB,Trek,U-Lock,,335
+14,November,theft bicycle,Unknown,Unknown,SANTA ROSA RACKS,KHS,Cable Lock,No,400
+14,October,theft bicycle,Unknown,Unknown,SYA RACKS,XDS,Cable Lock,No,400
+14,April,theft bicycle,Unknown,Unknown,SYA RACKS,Dawes,U-Lock,No,400
+14,August,theft bicycle,Unknown,Unknown,SAN NIC RACKS,Fuji,Cable Lock,No,430
+14,January,theft bicycle,Unknown,Unknown,FT RACKS,Specialized,Cable Lock,Yes,430
+14,May,theft bicycle,Unknown,Unknown,ROB GYM RACKS,Slite,Cable Lock,No,495
+14,May,theft bicycle,Unknown,Unknown,ENCINO VILLAGE RACKS,Centurion,Other,No,505
+14,October,theft bicycle,Unknown,Unknown,"ENCINO VILLAGE, MANZ",Shadow Nine,Padlock,No,550
+14,March,theft bicycle,Unknown,Unknown,DONNER VILLAGE RACKS,Peugeot,U-Lock,No,550
+14,April,theft bicycle,Unknown,Unknown,CHEMISTRY,Specialized,Cable Lock,No,640
+14,May,theft bicycle,Unknown,Unknown,SYA RACKS,Trek,Cable Lock,No,640
+14,July,theft bicycle,Unknown,Unknown,FT,masi,U-Lock,No,710
+14,October,theft bicycle,Unknown,Unknown,POLLOCK THEATRE,Kona,Cable Lock,No,725
+14,June,theft bicycle,Unknown,Unknown,CAMPBELL HALL RACKS,Novara,U-Lock,No,815
+14,May,theft bicycle,Unknown,Unknown,FT RACKS,Mercier,Cable Lock,No,1030
+14,July,theft bicycle,Unknown,Unknown,SYA RACKS,Masi,U-Lock,No,1111
+14,December,theft bicycle,Wednesday,1600-2400,ENGII,Vilano,U-Lock,No,125
+14,June,theft bicycle,Wednesday,1600-2400,LIBRARY,Pure Fix,U-Lock,No,190
+14,December,theft bicycle,Wednesday,2400-0800,SAN NICOLAS,Fuji,U-Lock,Yes,190
+14,November,theft bicycle,Wednesday,0800-1600,BUS LOOP,unknown,Not Locked,No,200
+14,August,theft bicycle,Wednesday,2400-0800,SYA RACKS,Univega,U-Lock,Yes,234
+14,August,theft bicycle,Wednesday,1600-2400,BUS LOOP RACKS,Specialized,U-Lock,Yes,250
+14,April,theft bicycle,Wednesday,0800-1600,LIBRARY RACKS,Unknown,Not Locked,No,269
+14,July,theft bicycle,Wednesday,Unknown,WOODHOUSE LAB RACK,DB7,U-Lock,No,325
+14,August,theft bicycle,Wednesday,Unknown,SSMS RACKS,Unknown,U-Lock,Yes,330
+14,June,theft bicycle,Wednesday,1600-2400,MUSIC RACKS,Fixie,Not listed,No,360
+14,August,theft bicycle,Wednesday,2400-0800,SYA RACKS,Fuji,U-Lock,No,524
+14,July,theft bicycle,Wednesday,1600-2400,BROIDA RACKS,Trek,Not listed,No,800
+15,November,theft bicycle,Friday,Unknown,HSSB RACKS,Focus,U-Lock,Yes,115
+15,September,theft bicycle,Friday,1600-2400,SRB RACKS,Virtue,Not Locked,Yes,600
+15,October,theft bicycle,Monday,0800-1600,STUDENT HEALTH,Schwinn,Not Locked,Yes,75
+15,November,theft bicycle,Monday,0800-1600,TROPICANA DEL NORTE,Schwinn,Not Locked,No,100
+15,March,theft bicycle,Monday,1600-2400,THUNDERDOME,Fuji,Not listed,Yes,100
+15,July,theft bicycle,Monday,1600-2400,FT RACKS,GT,Not listed,No,400
+15,February,theft bicycle,Monday,0800-1600,CHEMISTRY IFO,State,Not Locked,No,400
+15,November,theft bicycle,Monday,0800-1600,HSSB,Raleigh,Not Locked,Yes,400
+15,February,theft bicycle,Monday,2400-0800,SYA O/S,Specialized,Not listed,No,525
+15,April,theft bicycle,Monday,2400-0800,SYA,Specialized,Cable Lock,No,915
+15,April,theft bicycle,Saturday,0800-1600,PSYCHOLOGY ADDITION RACKS,Unknown,Not Locked,Yes,100
+15,March,theft bicycle,Saturday,1600-2400,SYA RACKS,Schwinn,Other,Yes,100
+15,April,theft bicycle,Saturday,2400-0800,SYA RACKS,DiamondBack,Chain Lock,Yes,170
+15,October,theft bicycle,Saturday,0800-1600,SANTA CATALINA,Diamondback,Not Locked,No,200
+15,July,theft bicycle,Saturday,1600-2400,STORKEHOUSING,Zivid,Chain Lock,No,220
+15,September,theft bicycle,Saturday,1600-2400,STORKE TOWER,Swinn,U-Lock,No,250
+15,October,theft bicycle,Sunday,1600-2400,PARKING LOT 9,Unknown,Combo,No,90
+15,May,theft bicycle,Sunday,2400-0800,SAN RAFAEL RACKS,FUGI,U-Lock,Yes,100
+15,February,theft bicycle,Sunday,1600-2400,SYA RACK,Kent,Cable Lock,No,230
+15,February,theft bicycle,Sunday,0800-1600,BRADBURY VILLAGE,Giant,Not Locked,No,500
+15,January,theft bicycle,Thursday,0800-1600,ARBOR RACKS,Gary Fisher,Cable Lock,Yes,110
+15,June,theft bicycle,Thursday,0800-1600,MUSIC,Huffy,U-Lock,Yes,110
+15,February,theft bicycle,Thursday,1600-2400,CARRILLO COMMONS O/S,Avalon,U-Lock,Yes,120
+15,November,theft bicycle,Thursday,2400-0800,MANZANITA VILLAGE,Unknown,Not listed,No,200
+15,November,theft bicycle,Thursday,1600-2400,PHELPS RACKS,SE,Not listed,Yes,400
+15,November,theft bicycle,Tuesday,2400-0800,SYA RACKS,Unknown,Combo,No,170
+15,October,theft bicycle,Tuesday,1600-2400,SOUTHHALL,Arbor,Not Locked,No,180
+15,May,theft bicycle,Tuesday,0800-1600,FT RACKS,Firmstrong,Combo,Yes,180
+15,October,theft bicycle,Tuesday,0800-1600,SANTA CATALINA,Saddleback,Cable Lock,No,200
+15,February,theft bicycle,Tuesday,0800-1600,MUSIC RACKS,6KU,U-Lock,Yes,250
+15,September,theft bicycle,Tuesday,0800-1600,LOT 30,Unknown,Not Locked,No,5000
+15,November,theft bicycle,Unknown,Unknown,SANTA ROSA RACKS,Phat,U-Lock,Yes,40
+15,September,theft bicycle,Unknown,Unknown,ENGII,GT,Cable Lock,No,75
+15,October,theft bicycle,Unknown,Unknown,SAN MIGUEL,American Flyer,U-Lock,Yes,75
+15,July,theft bicycle,Unknown,Unknown,ENCINO VILLAGE RACKS,Firmstrong,U-Lock,Yes,75
+15,March,theft bicycle,Unknown,Unknown,SANNIC RACKS,Phat,U-Lock,Yes,85
+15,July,theft bicycle,Unknown,Unknown,SANTA ROSA RACKS,Specialized,Cable Lock,Yes,90
+15,October,theft bicycle,Unknown,Unknown,DLG,Firmstrong,Not Locked,No,100
+15,November,theft bicycle,Unknown,Unknown,DLG,Road Master,Not Locked,No,100
+15,July,theft bicycle,Unknown,Unknown,SYA O/S,Mongoose,Cable Lock,Yes,100
+15,April,theft bicycle,Unknown,Unknown,FT RACKS,Thruster,Not listed,No,108
+15,November,theft bicycle,Unknown,Unknown,ANACAPA,Specialized,Chain Lock,Yes,115
+15,March,theft bicycle,Unknown,Unknown,CAMPBELL HALL RACKS,Magna,Not listed,Yes,115
+15,May,theft bicycle,Unknown,Unknown,BRADBURY O/S,Trek,Cable Lock,No,130
+15,October,theft bicycle,Unknown,Unknown,SAN NICOLAS,Schwinn,Not Locked,Yes,140
+15,October,theft bicycle,Unknown,Unknown,CHEMISTRY,Unknown,U-Lock,No,150
+15,March,theft bicycle,Unknown,Unknown,SAN CLEMENTE RACKS,Unknown,Chain Lock,No,160
+15,June,theft bicycle,Unknown,Unknown,PENDOLA RACKS,Schwinn,Combo,Yes,170
+15,May,theft bicycle,Unknown,Unknown,FT RACKS,Huffy,Not listed,Yes,170
+15,February,theft bicycle,Unknown,Unknown,STORKE FAMILY HSNG RACKS,Schwinn,Cable Lock,No,175
+15,September,theft bicycle,Unknown,Unknown,MANZ RACKS,Nashik,Cable Lock,Yes,180
+15,October,theft bicycle,Unknown,Unknown,SOUTH HALL,Kromica,U-Lock,Yes,180
+15,December,theft bicycle,Unknown,Unknown,SAN CLEMENTE,Riverside,Not listed,No,194
+15,October,theft bicycle,Unknown,Unknown,UCEN,Raleigh,Cable Lock,No,198
+15,June,theft bicycle,Unknown,Unknown,SANMIGUEL RACKS,Schwinn,U-Lock,Yes,200
+15,July,theft bicycle,Unknown,Unknown,FT RACKS,Schwinn,U-Lock,No,211
+15,October,theft bicycle,Unknown,Unknown,SAN NICOLAS,Purefix,U-Lock,Yes,250
+15,November,theft bicycle,Unknown,Unknown,WEST CAMPUS FAMILY HOUSING,Trek,Cable Lock,No,270
+15,March,theft bicycle,Unknown,Unknown,SANTA CATALINA,Sku,U-Lock,Yes,270
+15,January,theft bicycle,Unknown,Unknown,FT RACKS,6KU,U-Lock,No,280
+15,July,theft bicycle,Unknown,Unknown,SYA RACKS,Fit,U-Lock,No,300
+15,March,theft bicycle,Unknown,Unknown,WEST CAMPUS FH,Phat,Cable Lock,Yes,300
+15,June,theft bicycle,Unknown,Unknown,FT RACKS,Schwinn,Cable Lock,Yes,300
+15,March,theft bicycle,Unknown,Unknown,SANTA CATALINA FT,Pure,Combo,Yes,300
+15,August,theft bicycle,Unknown,Unknown,ARROWHEAD RACKS,Vilano,Cable Lock,No,350
+15,July,theft bicycle,Unknown,Unknown,SYA RACKS,Critical Cycles,Not listed,Yes,350
+15,November,theft bicycle,Unknown,Unknown,SYA RACKS,Gary Fisher,Not Locked,No,400
+15,February,theft bicycle,Unknown,Unknown,STORKE HOUSING RACKS,Trek,Not listed,Yes,400
+15,January,theft bicycle,Unknown,Unknown,SAN RAFAEL RACKS,DiamondBack,U-Lock,Yes,400
+15,May,theft bicycle,Unknown,Unknown,ANACAPA RACKS,GT,U-Lock,Yes,400
+15,April,theft bicycle,Unknown,Unknown,STORKEHOUSING,Specialized,Cable Lock,No,415
+15,February,theft bicycle,Unknown,Unknown,ENGI,SE,Chain Lock,No,420
+15,June,theft bicycle,Unknown,Unknown,SANTA ROSA RACKS,Raleigh,U-Lock,No,430
+15,October,theft bicycle,Unknown,Unknown,STORKEHOUSING,Specialized,U-Lock,No,430
+15,May,theft bicycle,Unknown,Unknown,SANTA CRUZ RACKS,GT,Not Locked,Yes,500
+15,July,theft bicycle,Unknown,Unknown,LOT 30,FX,U-Lock,No,529
+15,February,theft bicycle,Unknown,Unknown,STORKE HOUSING IFO,Specialized,Cable Lock,No,545
+15,January,theft bicycle,Unknown,Unknown,UCPD,Giant,Not listed,No,559
+15,July,theft bicycle,Unknown,Unknown,THEATRE & DANCE RACKS,Giant,U-Lock,No,640
+15,May,theft bicycle,Unknown,Unknown,ANACAPA EXT,Specialized,U-Lock,Yes,720
+15,January,theft bicycle,Unknown,Unknown,S. CRUZ RACK,Specialized,Cable Lock,No,730
+15,June,theft bicycle,Unknown,Unknown,SAN CLEMENTE RACKS,Trek,U-Lock,No,750
+15,June,theft bicycle,Unknown,Unknown,STORKEHOUSING,Trek,Cable Lock,No,980
+15,April,theft bicycle,Wednesday,0800-1600,LIBRARY RACKS,American Flyer,Cable Lock,Yes,75
+15,October,theft bicycle,Wednesday,0800-1600,ANACAPA,Geulhem,Not listed,Yes,80
+15,February,theft bicycle,Wednesday,0800-1600,SRB RACKS,Pacific Revolution,U-Lock,No,110
+15,August,theft bicycle,Wednesday,Unknown,SANTA YNEZ,Schwinn,Not Locked,Yes,150
+15,January,theft bicycle,Wednesday,0800-1600,SANTA ROSA RACKS,Schwinn,Cable Lock,No,330
+15,July,theft bicycle,Wednesday,0800-1600,SOUTH HALL RACKS,Mercier,Not Locked,Yes,400
+16,May,theft bicycle,Friday,08:00-16:00,GGSE - GIRVERTZ GRAD SCH OF EDUC,Huffy,Not Locked,Yes,100
+16,May,theft bicycle,Friday,16:00-24:00,REC-CENTER BIKE RACK,Schwinn,Not Locked,No,150
+16,July,theft bicycle,Friday,24:00-08:00,FSH WEST CAMPUS FAMILY HOUSING RACKS NEAR 734,Vilano,Cable Lock,No,220
+16,November,theft bicycle,Friday,08:00-16:00,SANTA CATALINA (FT) 10217 S TOWER,Schwinn,Other,Yes,225
+16,July,theft bicycle,Friday,08:00-16:00,BUS LOOP,Big Mountain,Combo,No,250
+16,February,theft bicycle,Friday,16:00-24:00,TROPICANA VILLAS,Hybrid,Cable Lock,No,330
+16,April,theft bicycle,Friday,08:00-16:00,DAVIDSON LIBRARY BIKE RACKS,Sku,Not Listed,Yes,350
+16,November,theft bicycle,Monday,08:00-16:00,SANTA CATALINA (FT),American Flyer,Not Locked,Yes,100
+16,March,theft bicycle,Monday,08:00-16:00,SANTA ROSA RES HALL BIKE RACKS,Zcycle,U-Lock,Yes,225
+16,June,theft bicycle,Monday,Unknown,TROPICANA GARDENS,GKU,U-Lock,No,250
+16,September,theft bicycle,Monday,16:00-24:00,DAVIDSON LIBRARY WEST SIDE,Diamondback,U-Lock,Yes,270
+16,May,theft bicycle,Monday,08:00-16:00,HSSB NR 1124,SE Monterey,U-Lock,No,300
+16,October,theft bicycle,Monday,08:00-16:00,TROPICANA GARDENS,Could9,Not Locked,No,376
+16,September,theft bicycle,Monday,08:00-16:00,THEATER & DANCE RACK,Firmstrong,Not Locked,Yes,400
+16,September,theft bicycle,Monday,16:00-24:00,FSH STORKE FAMILY HOUSING,Trek,Cable Lock,No,530
+16,June,theft bicycle,Saturday,08:00-16:00,PHELPS HALL BIKE RACKS NORTH OF CAMPBELL HALL,Schwinn,Chain Lock,No,100
+16,November,theft bicycle,Saturday,16:00-24:00,STUDENT RESOURCE BLDG,Kent Terra,Not Locked,Yes,100
+16,August,theft bicycle,Saturday,08:00-16:00,ASBIKESHOP,Unknown,Not Listed,No,115
+16,January,theft bicycle,Saturday,Unknown,SANTA CATALINA (FT) BIKE RACK NEAR PORTOLA DINING COMMONS,Schwinn,Not Locked,No,230
+16,September,theft bicycle,Saturday,16:00-24:00,SAN RAFAEL RES HALL TOWER,Specialized,Not Locked,No,300
+16,July,theft bicycle,Saturday,08:00-16:00,LOWER MSI - MSI BEACH BIKE RACKS,,Cable Lock,No,440
+16,July,theft bicycle,Saturday,16:00-24:00,REC-CENTER,Felt,Cable Lock,No,550
+16,September,theft bicycle,Sunday,24:00-08:00,FSH WEST CAMPUS FAMILY HOUSING,Fixie,Not Listed,No,0
+16,February,theft bicycle,Sunday,16:00-24:00,MUSIC RACKS,Unknown,Cable Lock,Yes,270
+16,February,theft bicycle,Sunday,Unknown,IVFOOTPATROL,Trek,Not Locked,Yes,280
+16,September,theft bicycle,Sunday,16:00-24:00,SANTA CRUZ RES HALL,Fuji,U-Lock,Yes,330
+16,June,theft bicycle,Sunday,Unknown,SIERRA MADRE - STAFF APTS NORTH BIKE RACKS,Trek,Cable Lock,Yes,355
+16,September,theft bicycle,Sunday,24:00-08:00,SANTA CATALINA (FT),Pure Fix,Not Listed,No,470
+16,November,theft bicycle,Sunday,16:00-24:00,SANTA CATALINA (FT),Specialized,Cable Lock,No,620
+16,July,theft bicycle,Thursday,16:00-24:00,SSH SANTA YNEZ APARTMENTS UNIT 125,,U-Lock,No,40
+16,June,theft bicycle,Thursday,24:00-08:00,FSH STORKE FAMILY HOUSING 771 D,Unknown,Cable Lock,No,50
+16,April,theft bicycle,Thursday,16:00-24:00,SANTA CATALINA (FT) NORTH TOWER ROOM 5433,Sears Roebuck,Not Locked,No,55
+16,May,theft bicycle,Thursday,08:00-16:00,CONDOR EXTERIOR RACKS,Specialized,Not Listed,No,100
+16,December,theft bicycle,Thursday,08:00-16:00,PHELPS HALL BIKE RACK,Vilano,Not Locked,No,120
+16,September,theft bicycle,Thursday,24:00-08:00,SANTA CATALINA (FT) RACKS OUTSIDE NORTH TOWER,Schwinn,U-Lock,Yes,170
+16,August,theft bicycle,Thursday,16:00-24:00,DAVIDSON LIBRARY RACK,Unknown,Cable Lock,No,200
+16,March,theft bicycle,Thursday,08:00-16:00,HSSB BIKE RACKS,Phat,Not Listed,Yes,200
+16,January,theft bicycle,Thursday,08:00-16:00,HSSB,Fixie,Cable Lock,No,220
+16,June,theft bicycle,Thursday,08:00-16:00,CARRILLO DINING COMMONS RACKS,Specialized,Cable Lock,Yes,250
+16,February,theft bicycle,Thursday,08:00-16:00,CAMPBELL HALL RACKS,Unknown,Not Listed,No,255
+16,January,theft bicycle,Thursday,Unknown,HSSB,Unknown,U-Lock,No,300
+16,August,theft bicycle,Thursday,16:00-24:00,SAN NICOLAS RES HALL RACKS,Scott Mountain Aspect,Not Listed,No,340
+16,May,theft bicycle,Thursday,16:00-24:00,NORTHHALL,Cannondale,U-Lock,Yes,550
+16,July,theft bicycle,Thursday,08:00-16:00,DAVIDSON LIBRARY RACKS ON SOUTH SIDE OF LIBRARY,Niner,Cable Lock,No,3530
+16,May,theft bicycle,Tuesday,16:00-24:00,HSSB BIKE RACK,Roadmaster,U-Lock,Yes,50
+16,September,theft bicycle,Tuesday,08:00-16:00,PHELPS HALL,Mongoose Spectra,Not Locked,No,96
+16,May,theft bicycle,Tuesday,16:00-24:00,"RINCON, LA PATERA QUAD INTERIOR BIKE RACK",Unknown,Not Locked,Yes,150
+16,November,theft bicycle,Tuesday,16:00-24:00,PSYCHOLOGY,Pure Fix,Not Locked,Yes,180
+16,June,theft bicycle,Tuesday,08:00-16:00,HSSB,Schwinn,Not Locked,Yes,180
+16,January,theft bicycle,Tuesday,24:00-08:00,TROPICANADELNORTE,Retrospect,U-Lock,No,200
+16,December,theft bicycle,Tuesday,08:00-16:00,CNSI,Trek,Cable Lock,No,600
+16,September,theft bicycle,Tuesday,24:00-08:00,FSH WEST CAMPUS FAMILY HOUSING 705 APT 204,Cammondale R300,Not Locked,No,800
+16,September,theft bicycle,Tuesday,08:00-16:00,HSSB,BMX F.IT.,Cable Lock,No,830
+16,April,theft bicycle,Tuesday,08:00-16:00,HSSB,Cannondale,Not Listed,No,1562
+16,April,theft bicycle,Unknown,Unknown,CASTAIC VILLAGE BIKE RACKS,Fuji,U-Lock,Yes,0
+16,January,theft bicycle,Unknown,Unknown,SAN NICOLAS RES HALL BIKE RACKS,Huffy,Not Locked,Yes,20
+16,May,theft bicycle,Unknown,Unknown,"MIRANDA, LAS ENCINAS QUAD",Huffy,Not Listed,No,50
+16,June,theft bicycle,Unknown,Unknown,EL EMBARCADERO TOP OF THE LOOP,Huffy,Not Listed,Yes,50
+16,March,theft bicycle,Unknown,Unknown,SANTA CATALINA (FT) BIKE RACKS,Firmstrong,Not Locked,Yes,60
+16,December,theft bicycle,Unknown,Unknown,SANTA CATALINA (FT) BIKE RACKS,Micargi,U-Lock,Yes,70
+16,September,theft bicycle,Unknown,Unknown,BUS LOOP,Roxy,Not Locked,Yes,75
+16,May,theft bicycle,Unknown,Unknown,SIERRA MADRE VILLAGE,Raleigh,Cable Lock,No,80
+16,January,theft bicycle,Unknown,Unknown,CUYAMA EXTERIOR BIKE RACK,Huffy,U-Lock,Yes,80
+16,July,theft bicycle,Unknown,Unknown,SIERRA MADRE - STAFF APTS,Next,Not Locked,Yes,90
+16,October,theft bicycle,Unknown,Unknown,SIERRA MADRE VILLAGE (STUDENTS),Unknown,Cable Lock,No,130
+16,July,theft bicycle,Unknown,Unknown,SAN CLEMENTE BIKE RACKS,Thruster Circuit,Cable Lock,No,150
+16,September,theft bicycle,Unknown,Unknown,SSH SANTA YNEZ APARTMENTS,Raleigh,Not Locked,No,150
+16,February,theft bicycle,Unknown,Unknown,BUS LOOP,Specialized,U-Lock,No,150
+16,September,theft bicycle,Unknown,Unknown,BROIDA HALL,Diamondback,Not Locked,Yes,150
+16,July,theft bicycle,Unknown,Unknown,STUDENT RESOURCE BLDG AREA OF SAN NICHOLAS HALL,Genesis,Not Listed,No,160
+16,September,theft bicycle,Unknown,Unknown,CUYAMA EXTERIOR BIKE RACK,6KU,U-Lock,Yes,160
+16,July,theft bicycle,Unknown,Unknown,MUSIC RACKS,SKE,Cable Lock,No,165
+16,July,theft bicycle,Unknown,Unknown,SANTA CRUZ RES HALL RACKS,Micargi Pantera,U-Lock,No,179
+16,November,theft bicycle,Unknown,Unknown,SANTA CATALINA (FT) BIKE RACKS,Trek,Cable Lock,Yes,180
+16,March,theft bicycle,Unknown,Unknown,ARBOR,SKU,U-Lock,No,182
+16,July,theft bicycle,Unknown,Unknown,FSH STORKE FAMILY HOUSING 783,Torker,Cable Lock,No,200
+16,May,theft bicycle,Unknown,Unknown,SAN RAFAEL RES HALL TOWER BIKE RACKS,Fuji,Not Listed,No,200
+16,July,theft bicycle,Unknown,Unknown,DONNER VILLAGE 4111,Fuji,Cable Lock,Yes,200
+16,January,theft bicycle,Unknown,Unknown,SAN CLEMENTE BIKE RACKS NEAR DONNER,Trek 820,Cable Lock,Yes,200
+16,February,theft bicycle,Unknown,Unknown,SAN RAFAEL RES HALL TOWER RACKS,Schwinn,U-Lock,Yes,200
+16,April,theft bicycle,Unknown,Unknown,SANTA CATALINA (FT),Schwinn,U-Lock,Yes,200
+16,March,theft bicycle,Unknown,Unknown,SAN NICOLAS RES HALL BIKE RACKS,Specialized,Not Listed,Yes,205
+16,October,theft bicycle,Unknown,Unknown,SAN NICOLAS RES HALL BIKE RACKS,Unknown,U-Lock,No,215
+16,October,theft bicycle,Unknown,Unknown,SAN RAFAEL RES HALL TOWER BIKE RACKS,North Rock,Cable Lock,Yes,215
+16,October,theft bicycle,Unknown,Unknown,HARDER STADIUM/ MEREDITH FIELD STOLEN BICYCLE,Unknown,Chain Lock,Yes,215
+16,January,theft bicycle,Unknown,Unknown,SAN MIGUEL RES HALL BIKE RACKS,Micargi,U-Lock,Yes,215
+16,September,theft bicycle,Unknown,Unknown,MANZANITA VILLAGE BIKE RACKS NEXT TO RINCON HOUSE,Specialized,Not Listed,No,220
+16,February,theft bicycle,Unknown,Unknown,BREN SCHOOL BIKE RACKS NEAR PL01,Caraci,Cable Lock,Yes,220
+16,July,theft bicycle,Unknown,Unknown,ENGII,Hardrock,U-Lock,Yes,220
+16,April,theft bicycle,Unknown,Unknown,SAN NICOLAS RES HALL BIKE RACK,Schwinn,Not Listed,Yes,225
+16,October,theft bicycle,Unknown,Unknown,TECOLOTE EXTERIOR RACKS,Sku,Cable Lock,No,256
+16,November,theft bicycle,Unknown,Unknown,DAVIDSON LIBRARY DAVIDSON BIKE RACKS,Sku,U-Lock,No,264
+16,February,theft bicycle,Unknown,Unknown,TROPICANA DEL NORTE BIKE RACKS,Motobecane,U-Lock,Yes,265
+16,July,theft bicycle,Unknown,Unknown,NOBLE HALL,Specialized,Cable Lock,No,270
+16,February,theft bicycle,Unknown,Unknown,SANTA ROSA RES HALL BIKE RACKS,Micargi,U-Lock,Yes,275
+16,June,theft bicycle,Unknown,Unknown,DE LA GUERRA WEST BIKE RACKS,Sku,Combo,No,280
+16,July,theft bicycle,Unknown,Unknown,FSH STORKE FAMILY HOUSING 763,Trek 7.1 FX,Cable Lock,No,300
+16,July,theft bicycle,Unknown,Unknown,ARROWHEAD VILLAGE RACKS,Trek,Combo,No,300
+16,April,theft bicycle,Unknown,Unknown,SAN MIGUEL EXTERIOR RACKS,Unknown,Not Listed,No,300
+16,December,theft bicycle,Unknown,Unknown,FSH STORKE FAMILY HOUSING,Skykomish,Combo,Yes,315
+16,November,theft bicycle,Unknown,Unknown,SANTA CATALINA (FT) RACKS,Sun,Combo,Yes,320
+16,January,theft bicycle,Unknown,Unknown,SANTA CATALINA (FT),Specialized Hardrock,Cable Lock,Yes,325
+16,November,theft bicycle,Unknown,Unknown,SSH SANTA YNEZ APARTMENTS,Trek 3500,Cable Lock,Yes,330
+16,July,theft bicycle,Unknown,Unknown,CASTAIC VILLAGE,Giant,Cable Lock,No,340
+16,August,theft bicycle,Unknown,Unknown,EMBARCADERO HALL 945,Electric,Cable Lock,Yes,350
+16,November,theft bicycle,Unknown,Unknown,BROIDA HALL,Retrospec,Not Listed,Yes,350
+16,November,theft bicycle,Unknown,Unknown,BROIDA HALL,SE Bikes,U-Lock,No,390
+16,July,theft bicycle,Unknown,Unknown,SSH SANTA YNEZ APARTMENTS IFO 250,Diamondback,Not Listed,No,400
+16,January,theft bicycle,Unknown,Unknown,TROPICANA DEL NORTE EXTERIOR BIKE RACK,Felt,Cable Lock,Yes,400
+16,September,theft bicycle,Unknown,Unknown,STUDENT HEALTH BICYCLE RACKS,Micargi,U-Lock,No,410
+16,September,theft bicycle,Unknown,Unknown,SAN RAFAEL RES HALL TOWER BIKE RACKS,Corsa R14,Cable Lock,Yes,420
+16,March,theft bicycle,Unknown,Unknown,"FSH WEST CAMPUS FAMILY HOUSING 716, #104",Specialized,Not Listed,No,500
+16,November,theft bicycle,Unknown,Unknown,SANTA CRUZ RES HALL RACKS,Diamondback,U-Lock,No,500
+16,June,theft bicycle,Unknown,Unknown,TROPICANA DEL NORTE RACKS AT REAR OF STRUCTURE,Trek,U-Lock,No,500
+16,March,theft bicycle,Unknown,Unknown,PHELPS HALL RACKS,Specialized,Cable Lock,Yes,500
+16,February,theft bicycle,Unknown,Unknown,MESA RD LOT 17,Electra,Not Listed,Yes,500
+16,January,theft bicycle,Unknown,Unknown,STUDENT RESOURCE BLDG RACKS,Trek,U-Lock,No,505
+16,September,theft bicycle,Unknown,Unknown,FSH WEST CAMPUS FAMILY HOUSING 708 BOLTON WALK,MQSSQ,Cable Lock,No,520
+16,March,theft bicycle,Unknown,Unknown,SANTA ROSA RES HALL BIKE RACKS,Mingroni,Cable Lock,No,600
+16,May,theft bicycle,Unknown,Unknown,FSH STORKE FAMILY HOUSING 773 UNIT H,Specialized,Chain Lock,No,600
+16,November,theft bicycle,Unknown,Unknown,SSH SANTA YNEZ APARTMENTS #427,Micargi Avant,Not Locked,No,600
+16,August,theft bicycle,Unknown,Unknown,SAN NICOLAS RES HALL RACKS,Trek,Not Listed,Yes,600
+16,December,theft bicycle,Unknown,Unknown,STORKEHOUSING,Specialized,U-Lock,No,700
+16,June,theft bicycle,Unknown,Unknown,DONNER VILLAGE,Raleigh,Cable Lock,No,790
+16,April,theft bicycle,Unknown,Unknown,MUSIC RACKS,unknown,U-Lock,Yes,880
+16,June,theft bicycle,Unknown,Unknown,STORKEHOUSING,Trek,Cable Lock,No,1000
+16,September,theft bicycle,Unknown,Unknown,SANTA CATALINA (FT) RACKS,Trek,Cable Lock,No,1015
+16,October,theft bicycle,Unknown,Unknown,SANTA CATALINA (FT),Bontrager,Not Locked,No,1050
+16,November,theft bicycle,Unknown,Unknown,SAN CLEMENTE STRUCTURE (BLDG 50) RM STORAGE AREA,Worksman Trading Corporation,Cable Lock,No,1230
+16,October,theft bicycle,Unknown,Unknown,SAN NICOLAS RES HALL,,U-Lock,Yes,1550
+16,November,theft bicycle,Unknown,Unknown,CYPRESS WALK 794 APART H,Cannondale,Not Listed,No,1560
+16,November,theft bicycle,Unknown,Unknown,ARROWHEAD VILLAGE BIKE RACKS BY STRUCTURE 50,Sklar,Cable Lock,No,4040
+16,February,theft bicycle,Wednesday,08:00-16:00,MUSIC N/S RACKS,Wave,Not Locked,Yes,80
+16,June,theft bicycle,Wednesday,08:00-16:00,HSSB,Bianchi,Not Locked,No,120
+16,August,theft bicycle,Wednesday,16:00-24:00,LIBRARY QUAD,Electra,Not Locked,No,150
+16,February,theft bicycle,Wednesday,16:00-24:00,PHELPS HALL BIKE RACKS,Trek,Not Locked,No,200
+16,November,theft bicycle,Wednesday,16:00-24:00,FSH WEST CAMPUS FAMILY HOUSING RACKS NEXT TO BLD 714,Nashbar,U-Lock,No,250
+16,August,theft bicycle,Wednesday,08:00-16:00,ENGII,Specialized,Combo,No,260
+16,February,theft bicycle,Wednesday,08:00-16:00,ARTS RACKS,Unknowm,Not Listed,No,300
+16,June,theft bicycle,Wednesday,08:00-16:00,ORTEGA DINING COMMONS OUTSIDE,Schwinn,U-Lock,No,330
+16,August,theft bicycle,Wednesday,16:00-24:00,CAMPBELL HALL RACKS,6KU,U-Lock,Yes,350
+16,April,theft bicycle,Wednesday,08:00-16:00,DAVIDSON LIBRARY RACKS,Trek,Cable Lock,No,500
+16,May,theft bicycle,Wednesday,08:00-16:00,HSSB RACKS,Merida,Not Locked,No,600
+16,June,theft bicycle,Wednesday,08:00-16:00,"FSH STORKE FAMILY HOUSING 798, RACKS",Specialized,Cable Lock,Yes,2000
+17,February,theft bicycle,Friday,08:00-16:00,CHEMISTRY FROM LOT 11,Raleigh,U-Lock,No,120
+17,March,theft bicycle,Monday,16:00-24:00,REC-CENTER RACKS,Schwinn,Cable Lock,Yes,50
+17,January,theft bicycle,Monday,16:00-24:00,BROIDA HALL RACKS NEAR TRAILERS NEXT TO,Giant,Not Listed,No,300
+17,March,theft bicycle,Monday,08:00-16:00,TROPICANA GARDENS,Giant,Not Listed,No,400
+17,February,theft bicycle,Saturday,16:00-24:00,KERR HALL,Macargi,Not Listed,No,250
+17,March,theft bicycle,Sunday,16:00-24:00,BIRCH WALK,GT Aggressor,Cable Lock,Yes,50
+17,February,theft bicycle,Sunday,24:00-08:00,SIERRA MADRE VILLAGE (STUDENTS) TOLUCA HOUSE,6KU,U-Lock,Yes,100
+17,January,theft bicycle,Thursday,08:00-16:00,CAMPBELL HALL BIKE RACK AT CAMPBELL HALL,Kent Glendale,Not Locked,No,100
+17,February,theft bicycle,Thursday,08:00-16:00,SAASB RACKS,Trek,Not Locked,No,200
+17,February,theft bicycle,Thursday,08:00-16:00,THEATER & DANCE BIKE RACKS,Trek,Not Locked,Yes,200
+17,March,theft bicycle,Thursday,16:00-24:00,DAVIDSON LIBRARY RACKS ON SOUTH SIDE,Diamondback,Not Listed,Yes,250
+17,February,theft bicycle,Thursday,16:00-24:00,SANTA CRUZ RES HALL,Specialized,Not Listed,Yes,300
+17,January,theft bicycle,Tuesday,08:00-16:00,MANZANITA VILLAGE BIKE RACKS NEAR ARGUELLO HOUSE,Unknown,Not Locked,Yes,70
+17,January,theft bicycle,Tuesday,16:00-24:00,ORTEGA DINING COMMONS BIKE RACKS,Huffy,Not Locked,Yes,200
+17,January,theft bicycle,Tuesday,16:00-24:00,CHEMISTRY BIKE RACKS,Giant,Cable Lock,No,240
+17,January,theft bicycle,Unknown,Unknown,ENGII,Huffy-Superia,U-Lock,No,80
+17,January,theft bicycle,Unknown,Unknown,SANTA CATALINA (FT),Roadmaster,Not Listed,Yes,80
+17,January,theft bicycle,Unknown,Unknown,SAN MIGUEL RES HALL RACKS,Triax,Not Locked,Yes,80
+17,March,theft bicycle,Unknown,Unknown,SAN JOAQUIN BIKE RACKS,,Cable Lock,No,110
+17,February,theft bicycle,Unknown,Unknown,HARDER STADIUM/ MEREDITH FIELD,Sku,Not Listed,Yes,140
+17,March,theft bicycle,Unknown,Unknown,BRADBURY VILLAGE BIKE RACKS,Micargi,Cable Lock,Yes,150
+17,March,theft bicycle,Unknown,Unknown,MANZANITA VILLAGE,Roadmaster,Not Listed,Yes,150
+17,March,theft bicycle,Unknown,Unknown,ANACAPA RES HALL BIKE RACKS,SE,Not Listed,Yes,175
+17,January,theft bicycle,Unknown,Unknown,SSH SANTA YNEZ APARTMENTS BIKE RACKS,Critical Cycles,Combo,No,200
+17,February,theft bicycle,Unknown,Unknown,SAN JOAQUIN RACKS,Kent,Not Locked,No,200
+17,February,theft bicycle,Unknown,Unknown,SANTA CRUZ RES HALL,Infiniti,Not Listed,Yes,200
+17,February,theft bicycle,Unknown,Unknown,SOUTH HALL SOUTH HALL/ANNEX,Fuji,Not Locked,Yes,250
+17,January,theft bicycle,Unknown,Unknown,IV THEATRE BIKE RACKS,PureFix,Not Listed,Yes,300
+17,January,theft bicycle,Unknown,Unknown,SSH SANTA YNEZ APARTMENTS 208,Giant,Cable Lock,Yes,535
+17,March,theft bicycle,Unknown,Unknown,ANACAPA RES HALL,LIV,Chain Lock,Yes,550
+17,February,theft bicycle,Unknown,Unknown,SSH SANTA YNEZ APARTMENTS,Novara,Not Listed,Yes,700
+17,March,theft bicycle,Wednesday,08:00-16:00,PHELPS HALL,Specialized,U-Lock,No,100
+17,February,theft bicycle,Wednesday,08:00-16:00,CAMPBELL HALL,Trek,Not Locked,Yes,450
